@@ -1,11 +1,17 @@
 import pandas as pd
 import requests 
 import os 
-import statsforecast as sf
 import mlforecast as mlf
 from datetime import datetime, timedelta
 from utilsforecast.plotting import plot_series
 from statsforecast import StatsForecast
+import warnings
+warnings.filterwarnings(
+    "ignore",
+    category=FutureWarning,
+    message=".*to_pydatetime.*"
+)
+
 
 from statsforecast.models import(
     AutoARIMA, 
@@ -41,12 +47,13 @@ response = requests.get(api_url + api_path, params=params)
 data = response.json()
 print(data)
 
-df = pd.DataFrame(data['response']['data'])
-# print(df.head(5))
 
-#Validating resposnse
-if "response" not in data:
-    raise ValueError("Response key not found in the API response")
+# Check for expected structure
+data = response.json()
+if "response" not in data or "data" not in data["response"]:
+    raise ValueError("Unexpected API response structure")
+
+df = pd.DataFrame(data["response"]["data"])
 
 
 # Writing to CSV
@@ -55,77 +62,70 @@ df.to_csv(file_path, index=False)
 
 # Load data for analysis
 df = pd.read_csv(file_path)
-# df.head()
 
 
-#Data Preparation and Preprocessing
-ts = df[["period", "value"]]
-print(ts.head())
-ts['period'] = pd.to_datetime(ts['period'])
-ts = ts.sort_values('period')
-# print(ts.info())
-end = ts['period'].max()
+# --- Data preparation ---
+ts = df[["period", "value"]].copy()
+ts["period"] = pd.to_datetime(ts["period"], errors="coerce")
+ts = ts.sort_values("period")
 
-ts = ts.rename(columns={"period":"ds", "value":"y"})    
-ts['unique_id'] = 1  # Single time series identifier
-ts = ts[["unique_id", "ds", "y"]]
+ts = ts.rename(columns={"period": "ds", "value": "y"})
+ts["unique_id"] = 1
+ts = ts[["unique_id", "ds", "y"]].sort_values("ds")
+# Final column order    
+ts = ts[["unique_id", "ds", "y"]].reset_index(drop=True)
+ts.to_csv(os.path.join(DATA_DIR, "prepared_data.csv"), index=False)
 
 
-ts["ds"] = pd.to_datetime(ts["ds"])
-ts = ts.sort_values("ds")
-ts = ts[["unique_id", "ds", "y"]]
+# # --- Train/test split: last 72 hours ---
+# test_length = 24 # hours
+# end = ts["ds"].max()
+# train_end = end - pd.Timedelta(hours=test_length)
 
-# Tell Nixtla / utilsforecast that unique_id is a column (not an index)
-os.environ["NIXTLA_ID_AS_COL"] = "1"
 
-# print(ts.head())
+# train = ts[ts["ds"] <= train_end]
+# test  = ts[ts["ds"] > train_end]
 
-# Leave last 72 hours as test data
-test_length = 24
-
-# Define end of series
-end = ts["ds"].max()
-
-# Compute train cutoff
-train_end = end - pd.Timedelta(hours=test_length)
-
-# Split data
-train = ts[ts["ds"] <= train_end]
-test  = ts[ts["ds"] > train_end]
-
+# # plot_series(train, engine="plotly")
 # print("Train rows:", len(train))
 # print("Test rows:", len(test))
 
 # plot_series(train, engine="plotly")
-# plot_series(test, engine="plotly")
+# p= plot_series(test, engine="plotly")
+# p.update_layout(height=400)
 
-# Model Training and Forecasting
 
-auto_arima = AutoARIMA(season_length=24)
-s_naive = SeasonalNaive(season_length=24)
-theta   = Theta(season_length=24)
+# --- StatsForecast Modeling ---
+# Tell Nixtla / utilsforecast that unique_id is a column (not an index)
+# os.environ["NIXTLA_ID_AS_COL"] = "1"
 
-mstl = MSTL(season_length=[24,168],
-            trend_forecaster=AutoARIMA(),
-            alias="MSTL_AutoARIMA")
 
-mstl2 = MSTL(season_length=[24,168],
-            trend_forecaster=HoltWinters(),
-            alias="MSTL_HoltWinters")
+# # Model Training and Forecasting
+# auto_arima = AutoARIMA(season_length=24)
+# s_naive = SeasonalNaive(season_length=24)
+# theta   = Theta(season_length=24)
 
-# Initialize StatsForecast with models
-statmodels = [auto_arima, s_naive, theta, mstl, mstl2]
+# mstl = MSTL(season_length=[24,168],
+#             trend_forecaster=AutoARIMA(),
+#             alias="MSTL_AutoARIMA")
 
-# Instantiate StatsForecast
-sf = StatsForecast(
-    models=statmodels,
-    freq="h",
-    n_jobs=-1,
-    fallback_model=AutoARIMA()
-)
+# mstl2 = MSTL(season_length=[24,168],
+#             trend_forecaster=HoltWinters(),
+#             alias="MSTL_HoltWinters")
 
-#create mlforecast forecaster
-forecast_stats = sf.forecast(df=train, h=test_length, level =[95])
+# # Initialize StatsForecast with models
+# statmodels = [auto_arima, s_naive, theta, mstl, mstl2]
 
-p = plot_series(test, forecast_stats, engine="plotly", level=[95])
-p.update_layout(height=400)
+# # Instantiate StatsForecast
+# sf = StatsForecast(
+#     models=statmodels,
+#     freq="h",
+#     n_jobs=-1,
+#     fallback_model=AutoARIMA()
+# )
+
+# #create mlforecast forecaster
+# forecast_stats = sf.forecast(df=train, h=test_length, level =[95])
+
+# p = plot_series(test, forecast_stats, engine="plotly", level=[95])
+# p.update_layout(height=400)
