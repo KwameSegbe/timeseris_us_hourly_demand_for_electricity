@@ -18,15 +18,21 @@ from sklearn.ensemble import RandomForestRegressor
 from utilsforecast.plotting import plot_series
 
 # --- Data preparation ---
-ts = pd.read_csv("data/data.csv")
+ts = pd.read_csv(r"C:\Users\HP\Documents\timeseries_analysis\data\tunnel.csv", encoding="utf-8")
+ts = ts.rename(columns={
+    "Day": "ds",
+    "NumVehicles": "y"
+})
+
+ts["unique_id"] = "tunnel_traffic"
+ts = ts[["unique_id", "ds", "y"]]
 ts["ds"] = pd.to_datetime(ts["ds"])
 ts = ts.sort_values("ds")
-ts = ts[["unique_id", "ds", "y"]]
 
 end = ts["ds"].max()
 start = end - datetime.timedelta(hours=24 * 31 * 25)
 ts = ts[ts["ds"] >= start]
-
+print(ts.head())
 os.environ["NIXTLA_ID_AS_COL"] = "1"
 
 
@@ -41,21 +47,22 @@ ml_models = {
 
 mlf = MLForecast(
     models=ml_models,
-    freq="h",
-    lags=list(range(1, 24)),
-    date_features=["month", "day", "dayofweek", "week", "hour"],
+    freq="D",
+    lags=list(range(1, 15)),
+    date_features=["month", "day", "dayofweek", "week"],
 )
 
 
 # --- Set the backtesting parameters ---
 
 # Window Settings
+h = 7
 partitions = 10
-step_size = 24
-h = 72
+step_size = h
+
 
 # Prediction Intervals Settings
-n_windows = 5
+n_windows = 3
 method = "conformal_distribution"
 pi = PredictionIntervals(h=h, n_windows=n_windows, method=method)
 levels = [95]
@@ -67,7 +74,7 @@ bkt_df = mlf.cross_validation(
     df=ts,
     h=h,
     step_size=step_size,
-    n_windows=partitions,
+    n_windows=n_windows,
     prediction_intervals=pi,
     level=levels,
 )
@@ -188,5 +195,7 @@ score_df = (
     .reset_index()
 )
 
-score_df.head()
+print(score_df.head())
+
+# print(score_df.shape)
 
