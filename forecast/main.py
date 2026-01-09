@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import requests 
 import os 
 import mlforecast as mlf
@@ -24,24 +25,24 @@ from statsforecast.models import(
     HoltWinters)
 
 
-# EIA API configuration
-api_key = os.getenv("EIA_API_KEY")
-if not api_key:
-    raise RuntimeError("EIA_API_KEY not set in environment variables")
+# # EIA API configuration
+# api_key = os.getenv("EIA_API_KEY")
+# if not api_key:
+#     raise RuntimeError("EIA_API_KEY not set in environment variables")
 
 
-api_url = "https://api.eia.gov/v2/"
-api_path = "electricity/rto/region-data/data"
+# api_url = "https://api.eia.gov/v2/"
+# api_path = "electricity/rto/region-data/data"
 
-# Ensure data directory exists
-DATA_DIR = r"C:\Users\HP\Documents\timeseries_analysis\data"
-os.makedirs(DATA_DIR, exist_ok=True)
+# # Ensure data directory exists
+# DATA_DIR = r"C:\Users\HP\Documents\timeseries_analysis\data"
+# os.makedirs(DATA_DIR, exist_ok=True)
 
-params = {
-    "api_key": api_key,
-    "data[0]": "value"
-}
-
+# params = {
+#     "api_key": api_key,
+#     "data[0]": "value"
+# }
+from config import api_key, api_url, api_path, DATA_DIR, params
 
 response = requests.get(api_url + api_path, params=params)
 data = response.json()
@@ -77,55 +78,51 @@ ts = ts[["unique_id", "ds", "y"]].reset_index(drop=True)
 ts.to_csv(os.path.join(DATA_DIR, "prepared_data.csv"), index=False)
 
 
-# # --- Train/test split: last 72 hours ---
-# test_length = 24 # hours
-# end = ts["ds"].max()
-# train_end = end - pd.Timedelta(hours=test_length)
+#--- Evaluation Metrics ---
+def mape(y, yhat, eps=1e-8):
+    y = np.asarray(y)
+    yhat = np.asarray(yhat)
+    return np.mean(np.abs(y - yhat) / np.maximum(np.abs(y), eps))
+
+def rmse(y, yhat):
+    y = np.asarray(y)
+    yhat = np.asarray(yhat)
+    return np.sqrt(np.mean((y - yhat) ** 2))
+
+def coverage(y, lower, upper):
+    y = np.asarray(y)
+    lower = np.asarray(lower)
+    upper = np.asarray(upper)
+    return np.mean((y >= lower) & (y <= upper))
 
 
-# train = ts[ts["ds"] <= train_end]
-# test  = ts[ts["ds"] > train_end]
+# Identify model point-forecast columns (exclude metadata + interval columns)
+ignore = {"unique_id", "ds"}
+model_cols = [c for c in forecast_stats.columns if c not in ignore and "-lo-" not in c and "-hi-" not in c]
 
-# # plot_series(train, engine="plotly")
-# print("Train rows:", len(train))
-# print("Test rows:", len(test))
+rows = []
+for col in model_cols:
+    y = fc["y"].values
+    yhat = fc[col].values
 
-# plot_series(train, engine="plotly")
-# p= plot_series(test, engine="plotly")
-# p.update_layout(height=400)
+    # interval columns exist only if you passed level=[95]
+    lo_col = f"{col}-lo-95"
+    hi_col = f"{col}-hi-95"
+
+    row = {
+        "model": col,
+        "mape": mape(y, yhat),
+        "rmse": rmse(y, yhat),
+    }
+
+    if lo_col in fc.columns and hi_col in fc.columns:
+        row["coverage_95"] = coverage(y, fc[lo_col].values, fc[hi_col].values)
+    else:
+        row["coverage_95"] = np.nan
+
+    rows.append(row)
+
+fc_performance = pd.DataFrame(rows).sort_values("rmse").reset_index(drop=True)
+fc_performance
 
 
-# --- StatsForecast Modeling ---
-# Tell Nixtla / utilsforecast that unique_id is a column (not an index)
-# os.environ["NIXTLA_ID_AS_COL"] = "1"
-
-
-# # Model Training and Forecasting
-# auto_arima = AutoARIMA(season_length=24)
-# s_naive = SeasonalNaive(season_length=24)
-# theta   = Theta(season_length=24)
-
-# mstl = MSTL(season_length=[24,168],
-#             trend_forecaster=AutoARIMA(),
-#             alias="MSTL_AutoARIMA")
-
-# mstl2 = MSTL(season_length=[24,168],
-#             trend_forecaster=HoltWinters(),
-#             alias="MSTL_HoltWinters")
-
-# # Initialize StatsForecast with models
-# statmodels = [auto_arima, s_naive, theta, mstl, mstl2]
-
-# # Instantiate StatsForecast
-# sf = StatsForecast(
-#     models=statmodels,
-#     freq="h",
-#     n_jobs=-1,
-#     fallback_model=AutoARIMA()
-# )
-
-# #create mlforecast forecaster
-# forecast_stats = sf.forecast(df=train, h=test_length, level =[95])
-
-# p = plot_series(test, forecast_stats, engine="plotly", level=[95])
-# p.update_layout(height=400)
