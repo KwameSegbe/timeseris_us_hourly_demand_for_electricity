@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KwameSegbe/timeseris_us_hourly_demand_for_electricity/main/assets/Time-Series-Analysis-2.webp" width="900" />
+  <img src="https://raw.githubusercontent.com/KwameSegbe/timeseris_us_hourly_demand_for_electricity/main/assets/Time-Series-Analysis-2.webp" width="900" alt="Time Series Forecasting"/>
 </p>
-
 
 <h1 align="center">🚀 Scalable Time Series Forecasting Pipelines</h1>
 
