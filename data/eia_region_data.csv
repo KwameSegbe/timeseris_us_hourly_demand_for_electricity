@@ -1,7 +1,7 @@
 period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T08,AVA,Avista Corporation,DF,Day-ahead demand forecast,1533,megawatthours
 2026-01-10T08,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,1924,megawatthours
-2026-01-10T08,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,7596,megawatthours
+2026-01-10T08,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,7546,megawatthours
 2026-01-10T08,CAL,California,DF,Day-ahead demand forecast,28506,megawatthours
 2026-01-10T08,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,276,megawatthours
 2026-01-10T08,CISO,California Independent System Operator,DF,Day-ahead demand forecast,23471,megawatthours
@@ -11,18 +11,18 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T08,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,1963,megawatthours
 2026-01-10T08,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2551,megawatthours
 2026-01-10T08,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3929,megawatthours
-2026-01-10T08,NW,Northwest,DF,Day-ahead demand forecast,24886,megawatthours
+2026-01-10T08,NW,Northwest,DF,Day-ahead demand forecast,24836,megawatthours
 2026-01-10T08,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2581,megawatthours
 2026-01-10T08,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,2702,megawatthours
 2026-01-10T08,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1512,megawatthours
 2026-01-10T08,SCL,Seattle City Light,DF,Day-ahead demand forecast,1136,megawatthours
 2026-01-10T08,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,279,megawatthours
 2026-01-10T08,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,584,megawatthours
-2026-01-10T08,US48,United States Lower 48,DF,Day-ahead demand forecast,53392,megawatthours
+2026-01-10T08,US48,United States Lower 48,DF,Day-ahead demand forecast,53342,megawatthours
 2026-01-10T07,AVA,Avista Corporation,DF,Day-ahead demand forecast,1598,megawatthours
 2026-01-10T07,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,4090,megawatthours
 2026-01-10T07,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2030,megawatthours
-2026-01-10T07,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,7848,megawatthours
+2026-01-10T07,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,7801,megawatthours
 2026-01-10T07,CAL,California,DF,Day-ahead demand forecast,30193,megawatthours
 2026-01-10T07,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,284,megawatthours
 2026-01-10T07,CISO,California Independent System Operator,DF,Day-ahead demand forecast,24884,megawatthours
@@ -33,7 +33,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T07,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2032,megawatthours
 2026-01-10T07,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2685,megawatthours
 2026-01-10T07,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,4092,megawatthours
-2026-01-10T07,NW,Northwest,DF,Day-ahead demand forecast,42004,megawatthours
+2026-01-10T07,NW,Northwest,DF,Day-ahead demand forecast,41957,megawatthours
 2026-01-10T07,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1354,megawatthours
 2026-01-10T07,PACE,PacifiCorp East,DF,Day-ahead demand forecast,6389,megawatthours
 2026-01-10T07,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2688,megawatthours
@@ -47,14 +47,14 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T07,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1663,megawatthours
 2026-01-10T07,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,292,megawatthours
 2026-01-10T07,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,613,megawatthours
-2026-01-10T07,US48,United States Lower 48,DF,Day-ahead demand forecast,84139,megawatthours
+2026-01-10T07,US48,United States Lower 48,DF,Day-ahead demand forecast,84092,megawatthours
 2026-01-10T07,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3490,megawatthours
 2026-01-10T07,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,107,megawatthours
 2026-01-10T06,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2395,megawatthours
 2026-01-10T06,AVA,Avista Corporation,DF,Day-ahead demand forecast,1669,megawatthours
 2026-01-10T06,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,4153,megawatthours
 2026-01-10T06,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2141,megawatthours
-2026-01-10T06,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8103,megawatthours
+2026-01-10T06,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8058,megawatthours
 2026-01-10T06,CAL,California,DF,Day-ahead demand forecast,31552,megawatthours
 2026-01-10T06,CENT,Central,DF,Day-ahead demand forecast,36822,megawatthours
 2026-01-10T06,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,295,megawatthours
@@ -68,7 +68,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T06,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2805,megawatthours
 2026-01-10T06,MIDW,Midwest,DF,Day-ahead demand forecast,2395,megawatthours
 2026-01-10T06,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,4271,megawatthours
-2026-01-10T06,NW,Northwest,DF,Day-ahead demand forecast,43385,megawatthours
+2026-01-10T06,NW,Northwest,DF,Day-ahead demand forecast,43340,megawatthours
 2026-01-10T06,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1408,megawatthours
 2026-01-10T06,PACE,PacifiCorp East,DF,Day-ahead demand forecast,6613,megawatthours
 2026-01-10T06,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2802,megawatthours
@@ -88,14 +88,14 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T06,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,305,megawatthours
 2026-01-10T06,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,644,megawatthours
 2026-01-10T06,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,14855,megawatthours
-2026-01-10T06,US48,United States Lower 48,DF,Day-ahead demand forecast,208334,megawatthours
+2026-01-10T06,US48,United States Lower 48,DF,Day-ahead demand forecast,208289,megawatthours
 2026-01-10T06,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3606,megawatthours
 2026-01-10T06,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,107,megawatthours
 2026-01-10T05,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2472,megawatthours
 2026-01-10T05,AVA,Avista Corporation,DF,Day-ahead demand forecast,1724,megawatthours
 2026-01-10T05,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,4269,megawatthours
 2026-01-10T05,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2198,megawatthours
-2026-01-10T05,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8330,megawatthours
+2026-01-10T05,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8287,megawatthours
 2026-01-10T05,CAL,California,DF,Day-ahead demand forecast,32159,megawatthours
 2026-01-10T05,CAR,Carolinas,DF,Day-ahead demand forecast,18542,megawatthours
 2026-01-10T05,CENT,Central,DF,Day-ahead demand forecast,37437,megawatthours
@@ -124,7 +124,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T05,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,71398,megawatthours
 2026-01-10T05,NE,New England,DF,Day-ahead demand forecast,12080,megawatthours
 2026-01-10T05,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,4411,megawatthours
-2026-01-10T05,NW,Northwest,DF,Day-ahead demand forecast,44696,megawatthours
+2026-01-10T05,NW,Northwest,DF,Day-ahead demand forecast,44653,megawatthours
 2026-01-10T05,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1461,megawatthours
 2026-01-10T05,NY,New York,DF,Day-ahead demand forecast,15633,megawatthours
 2026-01-10T05,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,15633,megawatthours
@@ -151,14 +151,14 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T05,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,313,megawatthours
 2026-01-10T05,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,663,megawatthours
 2026-01-10T05,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,15514,megawatthours
-2026-01-10T05,US48,United States Lower 48,DF,Day-ahead demand forecast,433241,megawatthours
+2026-01-10T05,US48,United States Lower 48,DF,Day-ahead demand forecast,433198,megawatthours
 2026-01-10T05,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3701,megawatthours
 2026-01-10T05,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,116,megawatthours
 2026-01-10T04,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2539,megawatthours
 2026-01-10T04,AVA,Avista Corporation,DF,Day-ahead demand forecast,1766,megawatthours
 2026-01-10T04,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,4358,megawatthours
 2026-01-10T04,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2237,megawatthours
-2026-01-10T04,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8492,megawatthours
+2026-01-10T04,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8451,megawatthours
 2026-01-10T04,CAL,California,DF,Day-ahead demand forecast,32702,megawatthours
 2026-01-10T04,CAR,Carolinas,DF,Day-ahead demand forecast,19499,megawatthours
 2026-01-10T04,CENT,Central,DF,Day-ahead demand forecast,37882,megawatthours
@@ -187,7 +187,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T04,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,73495,megawatthours
 2026-01-10T04,NE,New England,DF,Day-ahead demand forecast,12920,megawatthours
 2026-01-10T04,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,4493,megawatthours
-2026-01-10T04,NW,Northwest,DF,Day-ahead demand forecast,45629,megawatthours
+2026-01-10T04,NW,Northwest,DF,Day-ahead demand forecast,45588,megawatthours
 2026-01-10T04,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1505,megawatthours
 2026-01-10T04,NY,New York,DF,Day-ahead demand forecast,16426,megawatthours
 2026-01-10T04,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,16426,megawatthours
@@ -214,14 +214,14 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T04,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,318,megawatthours
 2026-01-10T04,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,678,megawatthours
 2026-01-10T04,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,16116,megawatthours
-2026-01-10T04,US48,United States Lower 48,DF,Day-ahead demand forecast,447971,megawatthours
+2026-01-10T04,US48,United States Lower 48,DF,Day-ahead demand forecast,447930,megawatthours
 2026-01-10T04,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3762,megawatthours
 2026-01-10T04,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,124,megawatthours
 2026-01-10T03,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2572,megawatthours
 2026-01-10T03,AVA,Avista Corporation,DF,Day-ahead demand forecast,1803,megawatthours
 2026-01-10T03,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,4350,megawatthours
 2026-01-10T03,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2272,megawatthours
-2026-01-10T03,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8591,megawatthours
+2026-01-10T03,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8558,megawatthours
 2026-01-10T03,CAL,California,DF,Day-ahead demand forecast,32967,megawatthours
 2026-01-10T03,CAR,Carolinas,DF,Day-ahead demand forecast,20420,megawatthours
 2026-01-10T03,CENT,Central,DF,Day-ahead demand forecast,37955,megawatthours
@@ -250,7 +250,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T03,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,75866,megawatthours
 2026-01-10T03,NE,New England,DF,Day-ahead demand forecast,13810,megawatthours
 2026-01-10T03,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,4522,megawatthours
-2026-01-10T03,NW,Northwest,DF,Day-ahead demand forecast,46257,megawatthours
+2026-01-10T03,NW,Northwest,DF,Day-ahead demand forecast,46224,megawatthours
 2026-01-10T03,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1532,megawatthours
 2026-01-10T03,NY,New York,DF,Day-ahead demand forecast,17207,megawatthours
 2026-01-10T03,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,17207,megawatthours
@@ -277,14 +277,14 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T03,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,322,megawatthours
 2026-01-10T03,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,695,megawatthours
 2026-01-10T03,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,16728,megawatthours
-2026-01-10T03,US48,United States Lower 48,DF,Day-ahead demand forecast,462808,megawatthours
+2026-01-10T03,US48,United States Lower 48,DF,Day-ahead demand forecast,462775,megawatthours
 2026-01-10T03,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3788,megawatthours
 2026-01-10T03,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,125,megawatthours
 2026-01-10T02,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2577,megawatthours
 2026-01-10T02,AVA,Avista Corporation,DF,Day-ahead demand forecast,1829,megawatthours
 2026-01-10T02,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,4323,megawatthours
 2026-01-10T02,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2263,megawatthours
-2026-01-10T02,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8612,megawatthours
+2026-01-10T02,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8589,megawatthours
 2026-01-10T02,CAL,California,DF,Day-ahead demand forecast,32624,megawatthours
 2026-01-10T02,CAR,Carolinas,DF,Day-ahead demand forecast,21130,megawatthours
 2026-01-10T02,CENT,Central,DF,Day-ahead demand forecast,37914,megawatthours
@@ -313,7 +313,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T02,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,77543,megawatthours
 2026-01-10T02,NE,New England,DF,Day-ahead demand forecast,14640,megawatthours
 2026-01-10T02,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,4465,megawatthours
-2026-01-10T02,NW,Northwest,DF,Day-ahead demand forecast,46499,megawatthours
+2026-01-10T02,NW,Northwest,DF,Day-ahead demand forecast,46476,megawatthours
 2026-01-10T02,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1553,megawatthours
 2026-01-10T02,NY,New York,DF,Day-ahead demand forecast,17864,megawatthours
 2026-01-10T02,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,17864,megawatthours
@@ -340,335 +340,664 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-10T02,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,316,megawatthours
 2026-01-10T02,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,695,megawatthours
 2026-01-10T02,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,17135,megawatthours
-2026-01-10T02,US48,United States Lower 48,DF,Day-ahead demand forecast,473672,megawatthours
+2026-01-10T02,US48,United States Lower 48,DF,Day-ahead demand forecast,473649,megawatthours
 2026-01-10T02,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3824,megawatthours
 2026-01-10T02,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,126,megawatthours
+2026-01-10T01,AECI,"Associated Electric Cooperative, Inc.",D,Demand,2417,megawatthours
 2026-01-10T01,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2560,megawatthours
+2026-01-10T01,AVA,Avista Corporation,D,Demand,1768,megawatthours
 2026-01-10T01,AVA,Avista Corporation,DF,Day-ahead demand forecast,1796,megawatthours
+2026-01-10T01,AZPS,Arizona Public Service Company,D,Demand,2229,megawatthours
 2026-01-10T01,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,4266,megawatthours
+2026-01-10T01,BANC,Balancing Authority of Northern California,D,Demand,2073,megawatthours
 2026-01-10T01,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2132,megawatthours
-2026-01-10T01,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8343,megawatthours
+2026-01-10T01,BPAT,Bonneville Power Administration,D,Demand,8320,megawatthours
+2026-01-10T01,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8337,megawatthours
+2026-01-10T01,CAL,California,D,Demand,28066,megawatthours
 2026-01-10T01,CAL,California,DF,Day-ahead demand forecast,29749,megawatthours
+2026-01-10T01,CAR,Carolinas,D,Demand,21738,megawatthours
 2026-01-10T01,CAR,Carolinas,DF,Day-ahead demand forecast,21791,megawatthours
+2026-01-10T01,CENT,Central,D,Demand,31226,megawatthours
 2026-01-10T01,CENT,Central,DF,Day-ahead demand forecast,38010,megawatthours
+2026-01-10T01,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,300,megawatthours
 2026-01-10T01,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,300,megawatthours
+2026-01-10T01,CISO,California Independent System Operator,D,Demand,25222,megawatthours
 2026-01-10T01,CISO,California Independent System Operator,DF,Day-ahead demand forecast,24288,megawatthours
+2026-01-10T01,CPLE,Duke Energy Progress East,D,Demand,6471,megawatthours
 2026-01-10T01,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,6374,megawatthours
+2026-01-10T01,CPLW,Duke Energy Progress West,D,Demand,535,megawatthours
 2026-01-10T01,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,636,megawatthours
+2026-01-10T01,DOPD,PUD No. 1 of Douglas County,D,Demand,355,megawatthours
 2026-01-10T01,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,355,megawatthours
+2026-01-10T01,DUK,Duke Energy Carolinas,D,Demand,11772,megawatthours
 2026-01-10T01,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,11821,megawatthours
+2026-01-10T01,EPE,El Paso Electric Company,D,Demand,977,megawatthours
 2026-01-10T01,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,996,megawatthours
+2026-01-10T01,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,52924,megawatthours
 2026-01-10T01,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,53092,megawatthours
+2026-01-10T01,FLA,Florida,D,Demand,30555,megawatthours
 2026-01-10T01,FLA,Florida,DF,Day-ahead demand forecast,28680,megawatthours
+2026-01-10T01,FMPP,Florida Municipal Power Pool,D,Demand,2385,megawatthours
 2026-01-10T01,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,2195,megawatthours
+2026-01-10T01,FPC,"Duke Energy Florida, Inc.",D,Demand,6574,megawatthours
 2026-01-10T01,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,5123,megawatthours
+2026-01-10T01,FPL,Florida Power & Light Co.,D,Demand,16596,megawatthours
 2026-01-10T01,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,16350,megawatthours
+2026-01-10T01,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,747,megawatthours
 2026-01-10T01,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,738,megawatthours
+2026-01-10T01,GVL,Gainesville Regional Utilities,D,Demand,246,megawatthours
 2026-01-10T01,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,223,megawatthours
+2026-01-10T01,HST,City of Homestead,D,Demand,78,megawatthours
 2026-01-10T01,HST,City of Homestead,DF,Day-ahead demand forecast,80,megawatthours
+2026-01-10T01,IID,Imperial Irrigation District,D,Demand,275,megawatthours
 2026-01-10T01,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,332,megawatthours
+2026-01-10T01,IPCO,Idaho Power Company,D,Demand,2251,megawatthours
 2026-01-10T01,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2292,megawatthours
+2026-01-10T01,ISNE,ISO New England,D,Demand,15638,megawatthours
 2026-01-10T01,ISNE,ISO New England,DF,Day-ahead demand forecast,15270,megawatthours
+2026-01-10T01,JEA,JEA,D,Demand,1528,megawatthours
 2026-01-10T01,JEA,JEA,DF,Day-ahead demand forecast,1565,megawatthours
+2026-01-10T01,LDWP,Los Angeles Department of Water and Power,D,Demand,192,megawatthours
 2026-01-10T01,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2700,megawatthours
+2026-01-10T01,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,4146,megawatthours
+2026-01-10T01,MIDA,Mid-Atlantic,D,Demand,96128,megawatthours
 2026-01-10T01,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,92200,megawatthours
+2026-01-10T01,MIDW,Midwest,D,Demand,85051,megawatthours
 2026-01-10T01,MIDW,Midwest,DF,Day-ahead demand forecast,81342,megawatthours
+2026-01-10T01,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,78488,megawatthours
 2026-01-10T01,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,78782,megawatthours
+2026-01-10T01,NE,New England,D,Demand,15638,megawatthours
 2026-01-10T01,NE,New England,DF,Day-ahead demand forecast,15270,megawatthours
+2026-01-10T01,NEVP,Nevada Power Company,D,Demand,4177,megawatthours
 2026-01-10T01,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,4177,megawatthours
-2026-01-10T01,NW,Northwest,DF,Day-ahead demand forecast,45518,megawatthours
+2026-01-10T01,NW,Northwest,D,Demand,43996,megawatthours
+2026-01-10T01,NW,Northwest,DF,Day-ahead demand forecast,45512,megawatthours
+2026-01-10T01,NWMT,NorthWestern Corporation,D,Demand,1562,megawatthours
 2026-01-10T01,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1552,megawatthours
+2026-01-10T01,NY,New York,D,Demand,18880,megawatthours
 2026-01-10T01,NY,New York,DF,Day-ahead demand forecast,18410,megawatthours
+2026-01-10T01,NYIS,New York Independent System Operator,D,Demand,18880,megawatthours
 2026-01-10T01,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,18410,megawatthours
+2026-01-10T01,PACE,PacifiCorp East,D,Demand,6900,megawatthours
 2026-01-10T01,PACE,PacifiCorp East,DF,Day-ahead demand forecast,7097,megawatthours
+2026-01-10T01,PACW,PacifiCorp West,D,Demand,2791,megawatthours
 2026-01-10T01,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2874,megawatthours
+2026-01-10T01,PGE,Portland General Electric Company,D,Demand,3135,megawatthours
 2026-01-10T01,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,3064,megawatthours
+2026-01-10T01,PJM,"PJM Interconnection, LLC",D,Demand,96128,megawatthours
 2026-01-10T01,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,92200,megawatthours
+2026-01-10T01,PNM,Public Service Company of New Mexico,D,Demand,2011,megawatthours
 2026-01-10T01,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,1827,megawatthours
+2026-01-10T01,PSCO,Public Service Company of Colorado,D,Demand,6099,megawatthours
 2026-01-10T01,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,5553,megawatthours
+2026-01-10T01,PSEI,"Puget Sound Energy, Inc.",D,Demand,3560,megawatthours
 2026-01-10T01,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1378,megawatthours
+2026-01-10T01,SC,South Carolina Public Service Authority,D,Demand,2960,megawatthours
 2026-01-10T01,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,2960,megawatthours
+2026-01-10T01,SCL,Seattle City Light,D,Demand,1279,megawatthours
 2026-01-10T01,SCL,Seattle City Light,DF,Day-ahead demand forecast,1367,megawatthours
+2026-01-10T01,SE,Southeast,D,Demand,25149,megawatthours
 2026-01-10T01,SE,Southeast,DF,Day-ahead demand forecast,24776,megawatthours
+2026-01-10T01,SEC,Seminole Electric Cooperative,D,Demand,265,megawatthours
 2026-01-10T01,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,219,megawatthours
+2026-01-10T01,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,25149,megawatthours
 2026-01-10T01,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,24776,megawatthours
+2026-01-10T01,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3646,megawatthours
 2026-01-10T01,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3676,megawatthours
+2026-01-10T01,SW,Southwest,D,Demand,11522,megawatthours
 2026-01-10T01,SW,Southwest,DF,Day-ahead demand forecast,12493,megawatthours
+2026-01-10T01,SWPP,Southwest Power Pool,D,Demand,31226,megawatthours
 2026-01-10T01,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,38010,megawatthours
+2026-01-10T01,TAL,City of Tallahassee,D,Demand,314,megawatthours
 2026-01-10T01,TAL,City of Tallahassee,DF,Day-ahead demand forecast,308,megawatthours
+2026-01-10T01,TEC,Tampa Electric Company,D,Demand,2569,megawatthours
 2026-01-10T01,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,2617,megawatthours
+2026-01-10T01,TEN,Tennessee,D,Demand,17478,megawatthours
 2026-01-10T01,TEN,Tennessee,DF,Day-ahead demand forecast,17463,megawatthours
+2026-01-10T01,TEPC,Tucson Electric Power,D,Demand,1708,megawatthours
 2026-01-10T01,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1728,megawatthours
+2026-01-10T01,TEX,Texas,D,Demand,52924,megawatthours
 2026-01-10T01,TEX,Texas,DF,Day-ahead demand forecast,53092,megawatthours
+2026-01-10T01,TIDC,Turlock Irrigation District,D,Demand,304,megawatthours
 2026-01-10T01,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,297,megawatthours
+2026-01-10T01,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,640,megawatthours
 2026-01-10T01,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,674,megawatthours
+2026-01-10T01,TVA,Tennessee Valley Authority,D,Demand,17478,megawatthours
 2026-01-10T01,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,17463,megawatthours
-2026-01-10T01,US48,United States Lower 48,DF,Day-ahead demand forecast,478794,megawatthours
+2026-01-10T01,US48,United States Lower 48,D,Demand,478351,megawatthours
+2026-01-10T01,US48,United States Lower 48,DF,Day-ahead demand forecast,478788,megawatthours
+2026-01-10T01,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,0,megawatthours
 2026-01-10T01,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3838,megawatthours
+2026-01-10T01,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,951,megawatthours
+2026-01-10T01,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,112,megawatthours
 2026-01-10T01,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,120,megawatthours
+2026-01-10T00,AECI,"Associated Electric Cooperative, Inc.",D,Demand,2303,megawatthours
 2026-01-10T00,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2472,megawatthours
+2026-01-10T00,AVA,Avista Corporation,D,Demand,1685,megawatthours
 2026-01-10T00,AVA,Avista Corporation,DF,Day-ahead demand forecast,1725,megawatthours
+2026-01-10T00,AZPS,Arizona Public Service Company,D,Demand,3924,megawatthours
 2026-01-10T00,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,4051,megawatthours
+2026-01-10T00,BANC,Balancing Authority of Northern California,D,Demand,1932,megawatthours
 2026-01-10T00,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2004,megawatthours
-2026-01-10T00,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8080,megawatthours
+2026-01-10T00,BPAT,Bonneville Power Administration,D,Demand,7938,megawatthours
+2026-01-10T00,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8081,megawatthours
+2026-01-10T00,CAL,California,D,Demand,26971,megawatthours
 2026-01-10T00,CAL,California,DF,Day-ahead demand forecast,27040,megawatthours
+2026-01-10T00,CAR,Carolinas,D,Demand,22116,megawatthours
 2026-01-10T00,CAR,Carolinas,DF,Day-ahead demand forecast,22106,megawatthours
+2026-01-10T00,CENT,Central,D,Demand,31254,megawatthours
 2026-01-10T00,CENT,Central,DF,Day-ahead demand forecast,37374,megawatthours
+2026-01-10T00,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,289,megawatthours
 2026-01-10T00,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,289,megawatthours
+2026-01-10T00,CISO,California Independent System Operator,D,Demand,24379,megawatthours
 2026-01-10T00,CISO,California Independent System Operator,DF,Day-ahead demand forecast,21849,megawatthours
+2026-01-10T00,CPLE,Duke Energy Progress East,D,Demand,6582,megawatthours
 2026-01-10T00,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,6499,megawatthours
+2026-01-10T00,CPLW,Duke Energy Progress West,D,Demand,549,megawatthours
 2026-01-10T00,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,636,megawatthours
+2026-01-10T00,DOPD,PUD No. 1 of Douglas County,D,Demand,344,megawatthours
 2026-01-10T00,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,359,megawatthours
+2026-01-10T00,DUK,Duke Energy Carolinas,D,Demand,12035,megawatthours
 2026-01-10T00,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,12021,megawatthours
+2026-01-10T00,EPE,El Paso Electric Company,D,Demand,898,megawatthours
 2026-01-10T00,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,922,megawatthours
+2026-01-10T00,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,52297,megawatthours
 2026-01-10T00,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,52450,megawatthours
+2026-01-10T00,FLA,Florida,D,Demand,31876,megawatthours
 2026-01-10T00,FLA,Florida,DF,Day-ahead demand forecast,30102,megawatthours
+2026-01-10T00,FMPP,Florida Municipal Power Pool,D,Demand,2479,megawatthours
 2026-01-10T00,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,2300,megawatthours
+2026-01-10T00,FPC,"Duke Energy Florida, Inc.",D,Demand,6906,megawatthours
 2026-01-10T00,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,5349,megawatthours
+2026-01-10T00,FPL,Florida Power & Light Co.,D,Demand,17283,megawatthours
 2026-01-10T00,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,17234,megawatthours
+2026-01-10T00,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,735,megawatthours
 2026-01-10T00,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,727,megawatthours
+2026-01-10T00,GVL,Gainesville Regional Utilities,D,Demand,255,megawatthours
 2026-01-10T00,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,221,megawatthours
+2026-01-10T00,HST,City of Homestead,D,Demand,79,megawatthours
 2026-01-10T00,HST,City of Homestead,DF,Day-ahead demand forecast,80,megawatthours
+2026-01-10T00,IID,Imperial Irrigation District,D,Demand,274,megawatthours
 2026-01-10T00,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,314,megawatthours
+2026-01-10T00,IPCO,Idaho Power Company,D,Demand,2227,megawatthours
 2026-01-10T00,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2235,megawatthours
+2026-01-10T00,ISNE,ISO New England,D,Demand,15890,megawatthours
 2026-01-10T00,ISNE,ISO New England,DF,Day-ahead demand forecast,15870,megawatthours
+2026-01-10T00,JEA,JEA,D,Demand,1576,megawatthours
 2026-01-10T00,JEA,JEA,DF,Day-ahead demand forecast,1598,megawatthours
+2026-01-10T00,LDWP,Los Angeles Department of Water and Power,D,Demand,100,megawatthours
 2026-01-10T00,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2589,megawatthours
+2026-01-10T00,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,3846,megawatthours
+2026-01-10T00,MIDA,Mid-Atlantic,D,Demand,97804,megawatthours
 2026-01-10T00,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,94381,megawatthours
+2026-01-10T00,MIDW,Midwest,D,Demand,85213,megawatthours
 2026-01-10T00,MIDW,Midwest,DF,Day-ahead demand forecast,81990,megawatthours
+2026-01-10T00,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,79064,megawatthours
 2026-01-10T00,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,79518,megawatthours
+2026-01-10T00,NE,New England,D,Demand,15890,megawatthours
 2026-01-10T00,NE,New England,DF,Day-ahead demand forecast,15870,megawatthours
+2026-01-10T00,NEVP,Nevada Power Company,D,Demand,4147,megawatthours
 2026-01-10T00,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3915,megawatthours
-2026-01-10T00,NW,Northwest,DF,Day-ahead demand forecast,43719,megawatthours
+2026-01-10T00,NW,Northwest,D,Demand,46426,megawatthours
+2026-01-10T00,NW,Northwest,DF,Day-ahead demand forecast,43720,megawatthours
+2026-01-10T00,NWMT,NorthWestern Corporation,D,Demand,1490,megawatthours
 2026-01-10T00,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1492,megawatthours
+2026-01-10T00,NY,New York,D,Demand,19316,megawatthours
 2026-01-10T00,NY,New York,DF,Day-ahead demand forecast,18857,megawatthours
+2026-01-10T00,NYIS,New York Independent System Operator,D,Demand,19316,megawatthours
 2026-01-10T00,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,18857,megawatthours
+2026-01-10T00,PACE,PacifiCorp East,D,Demand,6671,megawatthours
 2026-01-10T00,PACE,PacifiCorp East,DF,Day-ahead demand forecast,6791,megawatthours
+2026-01-10T00,PACW,PacifiCorp West,D,Demand,2619,megawatthours
 2026-01-10T00,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2773,megawatthours
+2026-01-10T00,PGE,Portland General Electric Company,D,Demand,2983,megawatthours
 2026-01-10T00,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,2952,megawatthours
+2026-01-10T00,PJM,"PJM Interconnection, LLC",D,Demand,97804,megawatthours
 2026-01-10T00,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,94381,megawatthours
+2026-01-10T00,PNM,Public Service Company of New Mexico,D,Demand,1921,megawatthours
 2026-01-10T00,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,1688,megawatthours
+2026-01-10T00,PSCO,Public Service Company of Colorado,D,Demand,5786,megawatthours
 2026-01-10T00,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,5302,megawatthours
+2026-01-10T00,PSEI,"Puget Sound Energy, Inc.",D,Demand,3364,megawatthours
 2026-01-10T00,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1312,megawatthours
+2026-01-10T00,SC,South Carolina Public Service Authority,D,Demand,2950,megawatthours
 2026-01-10T00,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,2950,megawatthours
+2026-01-10T00,SCL,Seattle City Light,D,Demand,1313,megawatthours
 2026-01-10T00,SCL,Seattle City Light,DF,Day-ahead demand forecast,1325,megawatthours
+2026-01-10T00,SE,Southeast,D,Demand,25477,megawatthours
 2026-01-10T00,SE,Southeast,DF,Day-ahead demand forecast,25471,megawatthours
+2026-01-10T00,SEC,Seminole Electric Cooperative,D,Demand,275,megawatthours
 2026-01-10T00,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,233,megawatthours
+2026-01-10T00,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,25477,megawatthours
 2026-01-10T00,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,25471,megawatthours
+2026-01-10T00,SPA,Southwestern Power Administration,D,Demand,28,megawatthours
+2026-01-10T00,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3462,megawatthours
 2026-01-10T00,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3459,megawatthours
+2026-01-10T00,SW,Southwest,D,Demand,12609,megawatthours
 2026-01-10T00,SW,Southwest,DF,Day-ahead demand forecast,11693,megawatthours
+2026-01-10T00,SWPP,Southwest Power Pool,D,Demand,31226,megawatthours
 2026-01-10T00,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,37374,megawatthours
+2026-01-10T00,TAL,City of Tallahassee,D,Demand,321,megawatthours
 2026-01-10T00,TAL,City of Tallahassee,DF,Day-ahead demand forecast,312,megawatthours
+2026-01-10T00,TEC,Tampa Electric Company,D,Demand,2702,megawatthours
 2026-01-10T00,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,2775,megawatthours
+2026-01-10T00,TEN,Tennessee,D,Demand,17793,megawatthours
 2026-01-10T00,TEN,Tennessee,DF,Day-ahead demand forecast,17787,megawatthours
+2026-01-10T00,TEPC,Tucson Electric Power,D,Demand,1536,megawatthours
 2026-01-10T00,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1573,megawatthours
+2026-01-10T00,TEX,Texas,D,Demand,52297,megawatthours
 2026-01-10T00,TEX,Texas,DF,Day-ahead demand forecast,52450,megawatthours
+2026-01-10T00,TIDC,Turlock Irrigation District,D,Demand,286,megawatthours
 2026-01-10T00,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,284,megawatthours
+2026-01-10T00,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,600,megawatthours
 2026-01-10T00,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,646,megawatthours
+2026-01-10T00,TVA,Tennessee Valley Authority,D,Demand,17793,megawatthours
 2026-01-10T00,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,17787,megawatthours
-2026-01-10T00,US48,United States Lower 48,DF,Day-ahead demand forecast,478840,megawatthours
+2026-01-10T00,US48,United States Lower 48,D,Demand,485042,megawatthours
+2026-01-10T00,US48,United States Lower 48,DF,Day-ahead demand forecast,478841,megawatthours
+2026-01-10T00,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4130,megawatthours
 2026-01-10T00,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3681,megawatthours
+2026-01-10T00,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,868,megawatthours
+2026-01-10T00,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,105,megawatthours
 2026-01-10T00,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,115,megawatthours
+2026-01-09T23,AECI,"Associated Electric Cooperative, Inc.",D,Demand,2070,megawatthours
 2026-01-09T23,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2255,megawatthours
+2026-01-09T23,AVA,Avista Corporation,D,Demand,1685,megawatthours
 2026-01-09T23,AVA,Avista Corporation,DF,Day-ahead demand forecast,1722,megawatthours
+2026-01-09T23,AZPS,Arizona Public Service Company,D,Demand,4644,megawatthours
 2026-01-09T23,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,3576,megawatthours
+2026-01-09T23,BANC,Balancing Authority of Northern California,D,Demand,1886,megawatthours
 2026-01-09T23,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,1955,megawatthours
-2026-01-09T23,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8031,megawatthours
+2026-01-09T23,BPAT,Bonneville Power Administration,D,Demand,7840,megawatthours
+2026-01-09T23,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8034,megawatthours
+2026-01-09T23,CAL,California,D,Demand,29510,megawatthours
 2026-01-09T23,CAL,California,DF,Day-ahead demand forecast,25188,megawatthours
+2026-01-09T23,CAR,Carolinas,D,Demand,21776,megawatthours
 2026-01-09T23,CAR,Carolinas,DF,Day-ahead demand forecast,21720,megawatthours
+2026-01-09T23,CENT,Central,D,Demand,31253,megawatthours
 2026-01-09T23,CENT,Central,DF,Day-ahead demand forecast,36483,megawatthours
+2026-01-09T23,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,282,megawatthours
 2026-01-09T23,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,282,megawatthours
+2026-01-09T23,CISO,California Independent System Operator,D,Demand,26472,megawatthours
 2026-01-09T23,CISO,California Independent System Operator,DF,Day-ahead demand forecast,20140,megawatthours
+2026-01-09T23,CPLE,Duke Energy Progress East,D,Demand,6468,megawatthours
 2026-01-09T23,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,6390,megawatthours
+2026-01-09T23,CPLW,Duke Energy Progress West,D,Demand,543,megawatthours
 2026-01-09T23,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,620,megawatthours
+2026-01-09T23,DOPD,PUD No. 1 of Douglas County,D,Demand,342,megawatthours
 2026-01-09T23,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,353,megawatthours
+2026-01-09T23,DUK,Duke Energy Carolinas,D,Demand,11908,megawatthours
 2026-01-09T23,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,11853,megawatthours
+2026-01-09T23,EPE,El Paso Electric Company,D,Demand,842,megawatthours
 2026-01-09T23,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,880,megawatthours
+2026-01-09T23,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,52175,megawatthours
 2026-01-09T23,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,52123,megawatthours
+2026-01-09T23,FLA,Florida,D,Demand,32089,megawatthours
 2026-01-09T23,FLA,Florida,DF,Day-ahead demand forecast,30739,megawatthours
+2026-01-09T23,FMPP,Florida Municipal Power Pool,D,Demand,2509,megawatthours
 2026-01-09T23,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,2375,megawatthours
+2026-01-09T23,FPC,"Duke Energy Florida, Inc.",D,Demand,6930,megawatthours
 2026-01-09T23,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,5427,megawatthours
+2026-01-09T23,FPL,Florida Power & Light Co.,D,Demand,17419,megawatthours
 2026-01-09T23,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,17583,megawatthours
+2026-01-09T23,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,735,megawatthours
 2026-01-09T23,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,723,megawatthours
+2026-01-09T23,GVL,Gainesville Regional Utilities,D,Demand,253,megawatthours
 2026-01-09T23,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,216,megawatthours
+2026-01-09T23,HST,City of Homestead,D,Demand,76,megawatthours
 2026-01-09T23,HST,City of Homestead,DF,Day-ahead demand forecast,76,megawatthours
+2026-01-09T23,IID,Imperial Irrigation District,D,Demand,273,megawatthours
 2026-01-09T23,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,302,megawatthours
+2026-01-09T23,IPCO,Idaho Power Company,D,Demand,2096,megawatthours
 2026-01-09T23,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2125,megawatthours
+2026-01-09T23,ISNE,ISO New England,D,Demand,16215,megawatthours
 2026-01-09T23,ISNE,ISO New England,DF,Day-ahead demand forecast,16220,megawatthours
+2026-01-09T23,JEA,JEA,D,Demand,1573,megawatthours
 2026-01-09T23,JEA,JEA,DF,Day-ahead demand forecast,1629,megawatthours
+2026-01-09T23,LDWP,Los Angeles Department of Water and Power,D,Demand,606,megawatthours
 2026-01-09T23,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2514,megawatthours
+2026-01-09T23,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,3882,megawatthours
+2026-01-09T23,MIDA,Mid-Atlantic,D,Demand,98018,megawatthours
 2026-01-09T23,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,96193,megawatthours
+2026-01-09T23,MIDW,Midwest,D,Demand,83298,megawatthours
 2026-01-09T23,MIDW,Midwest,DF,Day-ahead demand forecast,80646,megawatthours
+2026-01-09T23,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,77346,megawatthours
 2026-01-09T23,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,78391,megawatthours
+2026-01-09T23,NE,New England,D,Demand,16215,megawatthours
 2026-01-09T23,NE,New England,DF,Day-ahead demand forecast,16220,megawatthours
+2026-01-09T23,NEVP,Nevada Power Company,D,Demand,3972,megawatthours
 2026-01-09T23,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3743,megawatthours
-2026-01-09T23,NW,Northwest,DF,Day-ahead demand forecast,42766,megawatthours
+2026-01-09T23,NW,Northwest,D,Demand,45434,megawatthours
+2026-01-09T23,NW,Northwest,DF,Day-ahead demand forecast,42769,megawatthours
+2026-01-09T23,NWMT,NorthWestern Corporation,D,Demand,1481,megawatthours
 2026-01-09T23,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1445,megawatthours
+2026-01-09T23,NY,New York,D,Demand,19636,megawatthours
 2026-01-09T23,NY,New York,DF,Day-ahead demand forecast,19139,megawatthours
+2026-01-09T23,NYIS,New York Independent System Operator,D,Demand,19636,megawatthours
 2026-01-09T23,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,19139,megawatthours
+2026-01-09T23,PACE,PacifiCorp East,D,Demand,6540,megawatthours
 2026-01-09T23,PACE,PacifiCorp East,DF,Day-ahead demand forecast,6660,megawatthours
+2026-01-09T23,PACW,PacifiCorp West,D,Demand,2572,megawatthours
 2026-01-09T23,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2758,megawatthours
+2026-01-09T23,PGE,Portland General Electric Company,D,Demand,2908,megawatthours
 2026-01-09T23,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,2927,megawatthours
+2026-01-09T23,PJM,"PJM Interconnection, LLC",D,Demand,98018,megawatthours
 2026-01-09T23,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,96193,megawatthours
+2026-01-09T23,PNM,Public Service Company of New Mexico,D,Demand,1864,megawatthours
 2026-01-09T23,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,1596,megawatthours
+2026-01-09T23,PSCO,Public Service Company of Colorado,D,Demand,5503,megawatthours
 2026-01-09T23,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,5081,megawatthours
+2026-01-09T23,PSEI,"Puget Sound Energy, Inc.",D,Demand,3314,megawatthours
 2026-01-09T23,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1272,megawatthours
+2026-01-09T23,SC,South Carolina Public Service Authority,D,Demand,2857,megawatthours
 2026-01-09T23,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,2857,megawatthours
+2026-01-09T23,SCL,Seattle City Light,D,Demand,1306,megawatthours
 2026-01-09T23,SCL,Seattle City Light,DF,Day-ahead demand forecast,1313,megawatthours
+2026-01-09T23,SE,Southeast,D,Demand,25059,megawatthours
 2026-01-09T23,SE,Southeast,DF,Day-ahead demand forecast,25124,megawatthours
+2026-01-09T23,SEC,Seminole Electric Cooperative,D,Demand,275,megawatthours
 2026-01-09T23,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,237,megawatthours
+2026-01-09T23,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,25059,megawatthours
 2026-01-09T23,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,25124,megawatthours
+2026-01-09T23,SPA,Southwestern Power Administration,D,Demand,27,megawatthours
+2026-01-09T23,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3351,megawatthours
 2026-01-09T23,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3376,megawatthours
+2026-01-09T23,SW,Southwest,D,Demand,12949,megawatthours
 2026-01-09T23,SW,Southwest,DF,Day-ahead demand forecast,10820,megawatthours
+2026-01-09T23,SWPP,Southwest Power Pool,D,Demand,31226,megawatthours
 2026-01-09T23,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,36483,megawatthours
+2026-01-09T23,TAL,City of Tallahassee,D,Demand,312,megawatthours
 2026-01-09T23,TAL,City of Tallahassee,DF,Day-ahead demand forecast,305,megawatthours
+2026-01-09T23,TEC,Tampa Electric Company,D,Demand,2742,megawatthours
 2026-01-09T23,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,2891,megawatthours
+2026-01-09T23,TEN,Tennessee,D,Demand,17387,megawatthours
 2026-01-09T23,TEN,Tennessee,DF,Day-ahead demand forecast,17176,megawatthours
+2026-01-09T23,TEPC,Tucson Electric Power,D,Demand,1384,megawatthours
 2026-01-09T23,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1392,megawatthours
+2026-01-09T23,TEX,Texas,D,Demand,52175,megawatthours
 2026-01-09T23,TEX,Texas,DF,Day-ahead demand forecast,52123,megawatthours
+2026-01-09T23,TIDC,Turlock Irrigation District,D,Demand,273,megawatthours
 2026-01-09T23,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,277,megawatthours
+2026-01-09T23,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,597,megawatthours
 2026-01-09T23,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,644,megawatthours
+2026-01-09T23,TVA,Tennessee Valley Authority,D,Demand,17387,megawatthours
 2026-01-09T23,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,17176,megawatthours
-2026-01-09T23,US48,United States Lower 48,DF,Day-ahead demand forecast,474337,megawatthours
+2026-01-09T23,US48,United States Lower 48,D,Demand,484798,megawatthours
+2026-01-09T23,US48,United States Lower 48,DF,Day-ahead demand forecast,474340,megawatthours
+2026-01-09T23,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4156,megawatthours
 2026-01-09T23,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3572,megawatthours
+2026-01-09T23,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,864,megawatthours
+2026-01-09T23,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,105,megawatthours
 2026-01-09T23,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,115,megawatthours
+2026-01-09T22,AECI,"Associated Electric Cooperative, Inc.",D,Demand,1946,megawatthours
 2026-01-09T22,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2138,megawatthours
+2026-01-09T22,AVA,Avista Corporation,D,Demand,1706,megawatthours
 2026-01-09T22,AVA,Avista Corporation,DF,Day-ahead demand forecast,1742,megawatthours
+2026-01-09T22,AZPS,Arizona Public Service Company,D,Demand,4800,megawatthours
 2026-01-09T22,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,3296,megawatthours
+2026-01-09T22,BANC,Balancing Authority of Northern California,D,Demand,1876,megawatthours
 2026-01-09T22,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,1969,megawatthours
+2026-01-09T22,BPAT,Bonneville Power Administration,D,Demand,7970,megawatthours
 2026-01-09T22,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8110,megawatthours
+2026-01-09T22,CAL,California,D,Demand,32635,megawatthours
 2026-01-09T22,CAL,California,DF,Day-ahead demand forecast,24287,megawatthours
+2026-01-09T22,CAR,Carolinas,D,Demand,20963,megawatthours
 2026-01-09T22,CAR,Carolinas,DF,Day-ahead demand forecast,21009,megawatthours
+2026-01-09T22,CENT,Central,D,Demand,31257,megawatthours
 2026-01-09T22,CENT,Central,DF,Day-ahead demand forecast,36084,megawatthours
+2026-01-09T22,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,284,megawatthours
 2026-01-09T22,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,284,megawatthours
+2026-01-09T22,CISO,California Independent System Operator,D,Demand,27547,megawatthours
 2026-01-09T22,CISO,California Independent System Operator,DF,Day-ahead demand forecast,19288,megawatthours
+2026-01-09T22,CPLE,Duke Energy Progress East,D,Demand,6148,megawatthours
 2026-01-09T22,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,6138,megawatthours
+2026-01-09T22,CPLW,Duke Energy Progress West,D,Demand,523,megawatthours
 2026-01-09T22,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,581,megawatthours
+2026-01-09T22,DOPD,PUD No. 1 of Douglas County,D,Demand,353,megawatthours
 2026-01-09T22,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,353,megawatthours
+2026-01-09T22,DUK,Duke Energy Carolinas,D,Demand,11478,megawatthours
 2026-01-09T22,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,11476,megawatthours
+2026-01-09T22,EPE,El Paso Electric Company,D,Demand,816,megawatthours
 2026-01-09T22,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,848,megawatthours
+2026-01-09T22,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,52362,megawatthours
 2026-01-09T22,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,52179,megawatthours
+2026-01-09T22,FLA,Florida,D,Demand,32404,megawatthours
 2026-01-09T22,FLA,Florida,DF,Day-ahead demand forecast,30785,megawatthours
+2026-01-09T22,FMPP,Florida Municipal Power Pool,D,Demand,2393,megawatthours
 2026-01-09T22,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,2375,megawatthours
+2026-01-09T22,FPC,"Duke Energy Florida, Inc.",D,Demand,6924,megawatthours
 2026-01-09T22,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,5385,megawatthours
+2026-01-09T22,FPL,Florida Power & Light Co.,D,Demand,17786,megawatthours
 2026-01-09T22,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,17708,megawatthours
+2026-01-09T22,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,747,megawatthours
 2026-01-09T22,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,727,megawatthours
+2026-01-09T22,GVL,Gainesville Regional Utilities,D,Demand,252,megawatthours
 2026-01-09T22,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,212,megawatthours
+2026-01-09T22,HST,City of Homestead,D,Demand,76,megawatthours
 2026-01-09T22,HST,City of Homestead,DF,Day-ahead demand forecast,76,megawatthours
+2026-01-09T22,IID,Imperial Irrigation District,D,Demand,280,megawatthours
 2026-01-09T22,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,298,megawatthours
+2026-01-09T22,IPCO,Idaho Power Company,D,Demand,2121,megawatthours
 2026-01-09T22,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2083,megawatthours
+2026-01-09T22,ISNE,ISO New England,D,Demand,16078,megawatthours
 2026-01-09T22,ISNE,ISO New England,DF,Day-ahead demand forecast,15770,megawatthours
+2026-01-09T22,JEA,JEA,D,Demand,1606,megawatthours
 2026-01-09T22,JEA,JEA,DF,Day-ahead demand forecast,1631,megawatthours
+2026-01-09T22,LDWP,Los Angeles Department of Water and Power,D,Demand,2663,megawatthours
 2026-01-09T22,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2457,megawatthours
+2026-01-09T22,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,3794,megawatthours
+2026-01-09T22,MIDA,Mid-Atlantic,D,Demand,95578,megawatthours
 2026-01-09T22,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,96922,megawatthours
+2026-01-09T22,MIDW,Midwest,D,Demand,81118,megawatthours
 2026-01-09T22,MIDW,Midwest,DF,Day-ahead demand forecast,79072,megawatthours
+2026-01-09T22,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,75378,megawatthours
 2026-01-09T22,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,76934,megawatthours
+2026-01-09T22,NE,New England,D,Demand,16078,megawatthours
 2026-01-09T22,NE,New England,DF,Day-ahead demand forecast,15770,megawatthours
+2026-01-09T22,NEVP,Nevada Power Company,D,Demand,3863,megawatthours
 2026-01-09T22,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3642,megawatthours
+2026-01-09T22,NW,Northwest,D,Demand,45744,megawatthours
 2026-01-09T22,NW,Northwest,DF,Day-ahead demand forecast,42710,megawatthours
+2026-01-09T22,NWMT,NorthWestern Corporation,D,Demand,1467,megawatthours
 2026-01-09T22,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1446,megawatthours
+2026-01-09T22,NY,New York,D,Demand,19299,megawatthours
 2026-01-09T22,NY,New York,DF,Day-ahead demand forecast,18604,megawatthours
+2026-01-09T22,NYIS,New York Independent System Operator,D,Demand,19299,megawatthours
 2026-01-09T22,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,18604,megawatthours
+2026-01-09T22,PACE,PacifiCorp East,D,Demand,6653,megawatthours
 2026-01-09T22,PACE,PacifiCorp East,DF,Day-ahead demand forecast,6611,megawatthours
+2026-01-09T22,PACW,PacifiCorp West,D,Demand,2638,megawatthours
 2026-01-09T22,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2798,megawatthours
+2026-01-09T22,PGE,Portland General Electric Company,D,Demand,2914,megawatthours
 2026-01-09T22,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,2961,megawatthours
+2026-01-09T22,PJM,"PJM Interconnection, LLC",D,Demand,95578,megawatthours
 2026-01-09T22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,96922,megawatthours
+2026-01-09T22,PNM,Public Service Company of New Mexico,D,Demand,1812,megawatthours
 2026-01-09T22,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,1568,megawatthours
+2026-01-09T22,PSCO,Public Service Company of Colorado,D,Demand,5380,megawatthours
 2026-01-09T22,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,4992,megawatthours
+2026-01-09T22,PSEI,"Puget Sound Energy, Inc.",D,Demand,3346,megawatthours
 2026-01-09T22,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1276,megawatthours
+2026-01-09T22,SC,South Carolina Public Service Authority,D,Demand,2814,megawatthours
 2026-01-09T22,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,2814,megawatthours
+2026-01-09T22,SCL,Seattle City Light,D,Demand,1299,megawatthours
 2026-01-09T22,SCL,Seattle City Light,DF,Day-ahead demand forecast,1330,megawatthours
+2026-01-09T22,SE,Southeast,D,Demand,24697,megawatthours
 2026-01-09T22,SE,Southeast,DF,Day-ahead demand forecast,24925,megawatthours
+2026-01-09T22,SEC,Seminole Electric Cooperative,D,Demand,277,megawatthours
 2026-01-09T22,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,239,megawatthours
+2026-01-09T22,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,24697,megawatthours
 2026-01-09T22,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,24925,megawatthours
+2026-01-09T22,SPA,Southwestern Power Administration,D,Demand,31,megawatthours
+2026-01-09T22,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3340,megawatthours
 2026-01-09T22,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3342,megawatthours
+2026-01-09T22,SW,Southwest,D,Demand,12895,megawatthours
 2026-01-09T22,SW,Southwest,DF,Day-ahead demand forecast,10385,megawatthours
+2026-01-09T22,SWPP,Southwest Power Pool,D,Demand,31226,megawatthours
 2026-01-09T22,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,36084,megawatthours
+2026-01-09T22,TAL,City of Tallahassee,D,Demand,313,megawatthours
 2026-01-09T22,TAL,City of Tallahassee,DF,Day-ahead demand forecast,295,megawatthours
+2026-01-09T22,TEC,Tampa Electric Company,D,Demand,2777,megawatthours
 2026-01-09T22,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,2864,megawatthours
+2026-01-09T22,TEN,Tennessee,D,Demand,17022,megawatthours
 2026-01-09T22,TEN,Tennessee,DF,Day-ahead demand forecast,16937,megawatthours
+2026-01-09T22,TEPC,Tucson Electric Power,D,Demand,1284,megawatthours
 2026-01-09T22,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1331,megawatthours
+2026-01-09T22,TEX,Texas,D,Demand,52362,megawatthours
 2026-01-09T22,TEX,Texas,DF,Day-ahead demand forecast,52179,megawatthours
+2026-01-09T22,TIDC,Turlock Irrigation District,D,Demand,269,megawatthours
 2026-01-09T22,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,275,megawatthours
+2026-01-09T22,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,606,megawatthours
 2026-01-09T22,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,649,megawatthours
+2026-01-09T22,TVA,Tennessee Valley Authority,D,Demand,17022,megawatthours
 2026-01-09T22,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,16937,megawatthours
+2026-01-09T22,US48,United States Lower 48,D,Demand,482052,megawatthours
 2026-01-09T22,US48,United States Lower 48,DF,Day-ahead demand forecast,469669,megawatthours
+2026-01-09T22,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4290,megawatthours
 2026-01-09T22,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3589,megawatthours
+2026-01-09T22,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,843,megawatthours
+2026-01-09T22,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,107,megawatthours
 2026-01-09T22,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,117,megawatthours
+2026-01-09T21,AECI,"Associated Electric Cooperative, Inc.",D,Demand,1934,megawatthours
 2026-01-09T21,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2122,megawatthours
+2026-01-09T21,AVA,Avista Corporation,D,Demand,1747,megawatthours
 2026-01-09T21,AVA,Avista Corporation,DF,Day-ahead demand forecast,1767,megawatthours
+2026-01-09T21,AZPS,Arizona Public Service Company,D,Demand,5154,megawatthours
 2026-01-09T21,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,3173,megawatthours
+2026-01-09T21,BANC,Balancing Authority of Northern California,D,Demand,1925,megawatthours
 2026-01-09T21,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,1997,megawatthours
-2026-01-09T21,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8287,megawatthours
+2026-01-09T21,BPAT,Bonneville Power Administration,D,Demand,8223,megawatthours
+2026-01-09T21,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8276,megawatthours
+2026-01-09T21,CAL,California,D,Demand,33177,megawatthours
 2026-01-09T21,CAL,California,DF,Day-ahead demand forecast,24071,megawatthours
+2026-01-09T21,CAR,Carolinas,D,Demand,20741,megawatthours
 2026-01-09T21,CAR,Carolinas,DF,Day-ahead demand forecast,20580,megawatthours
+2026-01-09T21,CENT,Central,D,Demand,31244,megawatthours
 2026-01-09T21,CENT,Central,DF,Day-ahead demand forecast,36211,megawatthours
+2026-01-09T21,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,292,megawatthours
 2026-01-09T21,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,292,megawatthours
+2026-01-09T21,CISO,California Independent System Operator,D,Demand,27959,megawatthours
 2026-01-09T21,CISO,California Independent System Operator,DF,Day-ahead demand forecast,19056,megawatthours
+2026-01-09T21,CPLE,Duke Energy Progress East,D,Demand,6046,megawatthours
 2026-01-09T21,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,5956,megawatthours
+2026-01-09T21,CPLW,Duke Energy Progress West,D,Demand,511,megawatthours
 2026-01-09T21,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,555,megawatthours
+2026-01-09T21,DOPD,PUD No. 1 of Douglas County,D,Demand,355,megawatthours
 2026-01-09T21,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,357,megawatthours
+2026-01-09T21,DUK,Duke Energy Carolinas,D,Demand,11406,megawatthours
 2026-01-09T21,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,11291,megawatthours
+2026-01-09T21,EPE,El Paso Electric Company,D,Demand,806,megawatthours
 2026-01-09T21,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,831,megawatthours
+2026-01-09T21,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,52304,megawatthours
 2026-01-09T21,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,52197,megawatthours
+2026-01-09T21,FLA,Florida,D,Demand,32071,megawatthours
 2026-01-09T21,FLA,Florida,DF,Day-ahead demand forecast,30852,megawatthours
+2026-01-09T21,FMPP,Florida Municipal Power Pool,D,Demand,2381,megawatthours
 2026-01-09T21,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,2385,megawatthours
+2026-01-09T21,FPC,"Duke Energy Florida, Inc.",D,Demand,6741,megawatthours
 2026-01-09T21,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,5232,megawatthours
+2026-01-09T21,FPL,Florida Power & Light Co.,D,Demand,17661,megawatthours
 2026-01-09T21,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,17943,megawatthours
+2026-01-09T21,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,759,megawatthours
 2026-01-09T21,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,741,megawatthours
+2026-01-09T21,GVL,Gainesville Regional Utilities,D,Demand,249,megawatthours
 2026-01-09T21,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,206,megawatthours
+2026-01-09T21,HST,City of Homestead,D,Demand,74,megawatthours
 2026-01-09T21,HST,City of Homestead,DF,Day-ahead demand forecast,75,megawatthours
+2026-01-09T21,IID,Imperial Irrigation District,D,Demand,306,megawatthours
 2026-01-09T21,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,298,megawatthours
+2026-01-09T21,IPCO,Idaho Power Company,D,Demand,2134,megawatthours
 2026-01-09T21,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2080,megawatthours
+2026-01-09T21,ISNE,ISO New England,D,Demand,15324,megawatthours
 2026-01-09T21,ISNE,ISO New England,DF,Day-ahead demand forecast,15080,megawatthours
+2026-01-09T21,JEA,JEA,D,Demand,1605,megawatthours
 2026-01-09T21,JEA,JEA,DF,Day-ahead demand forecast,1624,megawatthours
+2026-01-09T21,LDWP,Los Angeles Department of Water and Power,D,Demand,2718,megawatthours
 2026-01-09T21,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2444,megawatthours
+2026-01-09T21,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,3845,megawatthours
+2026-01-09T21,MIDA,Mid-Atlantic,D,Demand,94498,megawatthours
 2026-01-09T21,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,93855,megawatthours
+2026-01-09T21,MIDW,Midwest,D,Demand,80834,megawatthours
 2026-01-09T21,MIDW,Midwest,DF,Day-ahead demand forecast,78748,megawatthours
+2026-01-09T21,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,75055,megawatthours
 2026-01-09T21,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,76626,megawatthours
+2026-01-09T21,NE,New England,D,Demand,15324,megawatthours
 2026-01-09T21,NE,New England,DF,Day-ahead demand forecast,15080,megawatthours
+2026-01-09T21,NEVP,Nevada Power Company,D,Demand,3841,megawatthours
 2026-01-09T21,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3587,megawatthours
-2026-01-09T21,NW,Northwest,DF,Day-ahead demand forecast,43181,megawatthours
+2026-01-09T21,NW,Northwest,D,Demand,46469,megawatthours
+2026-01-09T21,NW,Northwest,DF,Day-ahead demand forecast,43170,megawatthours
+2026-01-09T21,NWMT,NorthWestern Corporation,D,Demand,1494,megawatthours
 2026-01-09T21,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1469,megawatthours
+2026-01-09T21,NY,New York,D,Demand,18783,megawatthours
 2026-01-09T21,NY,New York,DF,Day-ahead demand forecast,18205,megawatthours
+2026-01-09T21,NYIS,New York Independent System Operator,D,Demand,18783,megawatthours
 2026-01-09T21,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,18205,megawatthours
+2026-01-09T21,PACE,PacifiCorp East,D,Demand,6710,megawatthours
 2026-01-09T21,PACE,PacifiCorp East,DF,Day-ahead demand forecast,6659,megawatthours
+2026-01-09T21,PACW,PacifiCorp West,D,Demand,2739,megawatthours
 2026-01-09T21,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2868,megawatthours
+2026-01-09T21,PGE,Portland General Electric Company,D,Demand,3015,megawatthours
 2026-01-09T21,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,3013,megawatthours
+2026-01-09T21,PJM,"PJM Interconnection, LLC",D,Demand,94498,megawatthours
 2026-01-09T21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,93855,megawatthours
+2026-01-09T21,PNM,Public Service Company of New Mexico,D,Demand,1807,megawatthours
 2026-01-09T21,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,1566,megawatthours
+2026-01-09T21,PSCO,Public Service Company of Colorado,D,Demand,5365,megawatthours
 2026-01-09T21,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,5005,megawatthours
+2026-01-09T21,PSEI,"Puget Sound Energy, Inc.",D,Demand,3399,megawatthours
 2026-01-09T21,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1288,megawatthours
+2026-01-09T21,SC,South Carolina Public Service Authority,D,Demand,2778,megawatthours
 2026-01-09T21,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,2778,megawatthours
+2026-01-09T21,SCL,Seattle City Light,D,Demand,1328,megawatthours
 2026-01-09T21,SCL,Seattle City Light,DF,Day-ahead demand forecast,1352,megawatthours
+2026-01-09T21,SE,Southeast,D,Demand,24746,megawatthours
 2026-01-09T21,SE,Southeast,DF,Day-ahead demand forecast,25124,megawatthours
+2026-01-09T21,SEC,Seminole Electric Cooperative,D,Demand,274,megawatthours
 2026-01-09T21,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,235,megawatthours
+2026-01-09T21,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,24746,megawatthours
 2026-01-09T21,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,25124,megawatthours
+2026-01-09T21,SPA,Southwestern Power Administration,D,Demand,18,megawatthours
+2026-01-09T21,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3416,megawatthours
 2026-01-09T21,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3368,megawatthours
+2026-01-09T21,SW,Southwest,D,Demand,13281,megawatthours
 2026-01-09T21,SW,Southwest,DF,Day-ahead demand forecast,10258,megawatthours
+2026-01-09T21,SWPP,Southwest Power Pool,D,Demand,31226,megawatthours
 2026-01-09T21,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,36211,megawatthours
+2026-01-09T21,TAL,City of Tallahassee,D,Demand,315,megawatthours
 2026-01-09T21,TAL,City of Tallahassee,DF,Day-ahead demand forecast,288,megawatthours
+2026-01-09T21,TEC,Tampa Electric Company,D,Demand,2771,megawatthours
 2026-01-09T21,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,2864,megawatthours
+2026-01-09T21,TEN,Tennessee,D,Demand,17094,megawatthours
 2026-01-09T21,TEN,Tennessee,DF,Day-ahead demand forecast,16920,megawatthours
+2026-01-09T21,TEPC,Tucson Electric Power,D,Demand,1250,megawatthours
 2026-01-09T21,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1320,megawatthours
+2026-01-09T21,TEX,Texas,D,Demand,52304,megawatthours
 2026-01-09T21,TEX,Texas,DF,Day-ahead demand forecast,52197,megawatthours
+2026-01-09T21,TIDC,Turlock Irrigation District,D,Demand,269,megawatthours
 2026-01-09T21,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,276,megawatthours
+2026-01-09T21,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,620,megawatthours
 2026-01-09T21,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,662,megawatthours
+2026-01-09T21,TVA,Tennessee Valley Authority,D,Demand,17094,megawatthours
 2026-01-09T21,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,16920,megawatthours
-2026-01-09T21,US48,United States Lower 48,DF,Day-ahead demand forecast,465282,megawatthours
+2026-01-09T21,US48,United States Lower 48,D,Demand,480566,megawatthours
+2026-01-09T21,US48,United States Lower 48,DF,Day-ahead demand forecast,465271,megawatthours
+2026-01-09T21,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4343,megawatthours
 2026-01-09T21,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3636,megawatthours
+2026-01-09T21,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,848,megawatthours
+2026-01-09T21,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,105,megawatthours
 2026-01-09T21,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,118,megawatthours
-2026-01-09T20,AECI,"Associated Electric Cooperative, Inc.",D,Demand,1994,megawatthours
+2026-01-09T20,AECI,"Associated Electric Cooperative, Inc.",D,Demand,1993,megawatthours
 2026-01-09T20,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2163,megawatthours
 2026-01-09T20,AVA,Avista Corporation,D,Demand,1792,megawatthours
 2026-01-09T20,AVA,Avista Corporation,DF,Day-ahead demand forecast,1790,megawatthours
-2026-01-09T20,AZPS,Arizona Public Service Company,D,Demand,2984,megawatthours
+2026-01-09T20,AZPS,Arizona Public Service Company,D,Demand,5105,megawatthours
 2026-01-09T20,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,3145,megawatthours
-2026-01-09T20,BANC,Balancing Authority of Northern California,D,Demand,2058,megawatthours
+2026-01-09T20,BANC,Balancing Authority of Northern California,D,Demand,1995,megawatthours
 2026-01-09T20,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2036,megawatthours
 2026-01-09T20,BPAT,Bonneville Power Administration,D,Demand,8433,megawatthours
-2026-01-09T20,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8494,megawatthours
-2026-01-09T20,CAL,California,D,Demand,31349,megawatthours
+2026-01-09T20,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8471,megawatthours
+2026-01-09T20,CAL,California,D,Demand,33294,megawatthours
 2026-01-09T20,CAL,California,DF,Day-ahead demand forecast,24959,megawatthours
 2026-01-09T20,CAR,Carolinas,D,Demand,20802,megawatthours
 2026-01-09T20,CAR,Carolinas,DF,Day-ahead demand forecast,20553,megawatthours
@@ -690,15 +1019,15 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T20,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,834,megawatthours
 2026-01-09T20,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,52104,megawatthours
 2026-01-09T20,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,52113,megawatthours
-2026-01-09T20,FLA,Florida,D,Demand,32365,megawatthours
+2026-01-09T20,FLA,Florida,D,Demand,32187,megawatthours
 2026-01-09T20,FLA,Florida,DF,Day-ahead demand forecast,30314,megawatthours
-2026-01-09T20,FMPP,Florida Municipal Power Pool,D,Demand,3181,megawatthours
+2026-01-09T20,FMPP,Florida Municipal Power Pool,D,Demand,3009,megawatthours
 2026-01-09T20,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,2345,megawatthours
-2026-01-09T20,FPC,"Duke Energy Florida, Inc.",D,Demand,6518,megawatthours
+2026-01-09T20,FPC,"Duke Energy Florida, Inc.",D,Demand,6512,megawatthours
 2026-01-09T20,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,4985,megawatthours
 2026-01-09T20,FPL,Florida Power & Light Co.,D,Demand,17529,megawatthours
 2026-01-09T20,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,17787,megawatthours
-2026-01-09T20,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,742,megawatthours
+2026-01-09T20,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,769,megawatthours
 2026-01-09T20,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,751,megawatthours
 2026-01-09T20,GVL,Gainesville Regional Utilities,D,Demand,239,megawatthours
 2026-01-09T20,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,202,megawatthours
@@ -709,24 +1038,24 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T20,IPCO,Idaho Power Company,D,Demand,2207,megawatthours
 2026-01-09T20,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2103,megawatthours
 2026-01-09T20,ISNE,ISO New England,D,Demand,14528,megawatthours
-2026-01-09T20,ISNE,ISO New England,DF,Day-ahead demand forecast,14760,megawatthours
+2026-01-09T20,ISNE,ISO New England,DF,Day-ahead demand forecast,14260,megawatthours
 2026-01-09T20,JEA,JEA,D,Demand,1579,megawatthours
 2026-01-09T20,JEA,JEA,DF,Day-ahead demand forecast,1608,megawatthours
-2026-01-09T20,LDWP,Los Angeles Department of Water and Power,D,Demand,678,megawatthours
+2026-01-09T20,LDWP,Los Angeles Department of Water and Power,D,Demand,2686,megawatthours
 2026-01-09T20,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2496,megawatthours
-2026-01-09T20,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,0,megawatthours
+2026-01-09T20,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,3806,megawatthours
 2026-01-09T20,MIDA,Mid-Atlantic,D,Demand,94587,megawatthours
 2026-01-09T20,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,91695,megawatthours
-2026-01-09T20,MIDW,Midwest,D,Demand,77231,megawatthours
+2026-01-09T20,MIDW,Midwest,D,Demand,81036,megawatthours
 2026-01-09T20,MIDW,Midwest,DF,Day-ahead demand forecast,79117,megawatthours
 2026-01-09T20,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,75237,megawatthours
 2026-01-09T20,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,76954,megawatthours
 2026-01-09T20,NE,New England,D,Demand,14528,megawatthours
-2026-01-09T20,NE,New England,DF,Day-ahead demand forecast,14760,megawatthours
+2026-01-09T20,NE,New England,DF,Day-ahead demand forecast,14260,megawatthours
 2026-01-09T20,NEVP,Nevada Power Company,D,Demand,3899,megawatthours
 2026-01-09T20,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3589,megawatthours
-2026-01-09T20,NW,Northwest,D,Demand,42820,megawatthours
-2026-01-09T20,NW,Northwest,DF,Day-ahead demand forecast,43750,megawatthours
+2026-01-09T20,NW,Northwest,D,Demand,47225,megawatthours
+2026-01-09T20,NW,Northwest,DF,Day-ahead demand forecast,43727,megawatthours
 2026-01-09T20,NWMT,NorthWestern Corporation,D,Demand,1493,megawatthours
 2026-01-09T20,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1490,megawatthours
 2026-01-09T20,NY,New York,D,Demand,18381,megawatthours
@@ -749,7 +1078,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T20,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1285,megawatthours
 2026-01-09T20,SC,South Carolina Public Service Authority,D,Demand,2772,megawatthours
 2026-01-09T20,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,2772,megawatthours
-2026-01-09T20,SCL,Seattle City Light,D,Demand,1254,megawatthours
+2026-01-09T20,SCL,Seattle City Light,D,Demand,1361,megawatthours
 2026-01-09T20,SCL,Seattle City Light,DF,Day-ahead demand forecast,1374,megawatthours
 2026-01-09T20,SE,Southeast,D,Demand,24944,megawatthours
 2026-01-09T20,SE,Southeast,DF,Day-ahead demand forecast,25024,megawatthours
@@ -758,9 +1087,9 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T20,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,24944,megawatthours
 2026-01-09T20,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,25024,megawatthours
 2026-01-09T20,SPA,Southwestern Power Administration,D,Demand,31,megawatthours
-2026-01-09T20,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3538,megawatthours
+2026-01-09T20,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3536,megawatthours
 2026-01-09T20,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3422,megawatthours
-2026-01-09T20,SW,Southwest,D,Demand,11285,megawatthours
+2026-01-09T20,SW,Southwest,D,Demand,13404,megawatthours
 2026-01-09T20,SW,Southwest,DF,Day-ahead demand forecast,10308,megawatthours
 2026-01-09T20,SWPP,Southwest Power Pool,D,Demand,31226,megawatthours
 2026-01-09T20,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,36537,megawatthours
@@ -768,7 +1097,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T20,TAL,City of Tallahassee,DF,Day-ahead demand forecast,283,megawatthours
 2026-01-09T20,TEC,Tampa Electric Company,D,Demand,2673,megawatthours
 2026-01-09T20,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,2804,megawatthours
-2026-01-09T20,TEN,Tennessee,D,Demand,17331,megawatthours
+2026-01-09T20,TEN,Tennessee,D,Demand,17392,megawatthours
 2026-01-09T20,TEN,Tennessee,DF,Day-ahead demand forecast,17096,megawatthours
 2026-01-09T20,TEPC,Tucson Electric Power,D,Demand,1269,megawatthours
 2026-01-09T20,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1324,megawatthours
@@ -778,16 +1107,16 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T20,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,277,megawatthours
 2026-01-09T20,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,625,megawatthours
 2026-01-09T20,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,672,megawatthours
-2026-01-09T20,TVA,Tennessee Valley Authority,D,Demand,17331,megawatthours
+2026-01-09T20,TVA,Tennessee Valley Authority,D,Demand,17392,megawatthours
 2026-01-09T20,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,17096,megawatthours
-2026-01-09T20,US48,United States Lower 48,D,Demand,468984,megawatthours
-2026-01-09T20,US48,United States Lower 48,DF,Day-ahead demand forecast,464217,megawatthours
-2026-01-09T20,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,0,megawatthours
+2026-01-09T20,US48,United States Lower 48,D,Demand,481141,megawatthours
+2026-01-09T20,US48,United States Lower 48,DF,Day-ahead demand forecast,463694,megawatthours
+2026-01-09T20,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4280,megawatthours
 2026-01-09T20,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3630,megawatthours
 2026-01-09T20,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,874,megawatthours
-2026-01-09T20,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,115,megawatthours
+2026-01-09T20,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,106,megawatthours
 2026-01-09T20,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,115,megawatthours
-2026-01-09T19,AECI,"Associated Electric Cooperative, Inc.",D,Demand,2100,megawatthours
+2026-01-09T19,AECI,"Associated Electric Cooperative, Inc.",D,Demand,2096,megawatthours
 2026-01-09T19,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2234,megawatthours
 2026-01-09T19,AVA,Avista Corporation,D,Demand,1819,megawatthours
 2026-01-09T19,AVA,Avista Corporation,DF,Day-ahead demand forecast,1824,megawatthours
@@ -796,12 +1125,12 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T19,BANC,Balancing Authority of Northern California,D,Demand,2089,megawatthours
 2026-01-09T19,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2095,megawatthours
 2026-01-09T19,BPAT,Bonneville Power Administration,D,Demand,8697,megawatthours
-2026-01-09T19,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8694,megawatthours
-2026-01-09T19,CAL,California,D,Demand,32923,megawatthours
+2026-01-09T19,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8651,megawatthours
+2026-01-09T19,CAL,California,D,Demand,32943,megawatthours
 2026-01-09T19,CAL,California,DF,Day-ahead demand forecast,26617,megawatthours
 2026-01-09T19,CAR,Carolinas,D,Demand,20949,megawatthours
 2026-01-09T19,CAR,Carolinas,DF,Day-ahead demand forecast,20596,megawatthours
-2026-01-09T19,CENT,Central,D,Demand,31253,megawatthours
+2026-01-09T19,CENT,Central,D,Demand,31240,megawatthours
 2026-01-09T19,CENT,Central,DF,Day-ahead demand forecast,37016,megawatthours
 2026-01-09T19,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,325,megawatthours
 2026-01-09T19,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,325,megawatthours
@@ -819,11 +1148,11 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T19,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,860,megawatthours
 2026-01-09T19,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,51614,megawatthours
 2026-01-09T19,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,51746,megawatthours
-2026-01-09T19,FLA,Florida,D,Demand,31460,megawatthours
+2026-01-09T19,FLA,Florida,D,Demand,31454,megawatthours
 2026-01-09T19,FLA,Florida,DF,Day-ahead demand forecast,29563,megawatthours
 2026-01-09T19,FMPP,Florida Municipal Power Pool,D,Demand,2922,megawatthours
 2026-01-09T19,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,2283,megawatthours
-2026-01-09T19,FPC,"Duke Energy Florida, Inc.",D,Demand,6259,megawatthours
+2026-01-09T19,FPC,"Duke Energy Florida, Inc.",D,Demand,6253,megawatthours
 2026-01-09T19,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,4733,megawatthours
 2026-01-09T19,FPL,Florida Power & Light Co.,D,Demand,17304,megawatthours
 2026-01-09T19,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,17534,megawatthours
@@ -838,24 +1167,24 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T19,IPCO,Idaho Power Company,D,Demand,2274,megawatthours
 2026-01-09T19,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2147,megawatthours
 2026-01-09T19,ISNE,ISO New England,D,Demand,13896,megawatthours
-2026-01-09T19,ISNE,ISO New England,DF,Day-ahead demand forecast,14500,megawatthours
+2026-01-09T19,ISNE,ISO New England,DF,Day-ahead demand forecast,13800,megawatthours
 2026-01-09T19,JEA,JEA,D,Demand,1549,megawatthours
 2026-01-09T19,JEA,JEA,DF,Day-ahead demand forecast,1553,megawatthours
-2026-01-09T19,LDWP,Los Angeles Department of Water and Power,D,Demand,2580,megawatthours
+2026-01-09T19,LDWP,Los Angeles Department of Water and Power,D,Demand,2600,megawatthours
 2026-01-09T19,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2582,megawatthours
-2026-01-09T19,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,0,megawatthours
+2026-01-09T19,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,3790,megawatthours
 2026-01-09T19,MIDA,Mid-Atlantic,D,Demand,96039,megawatthours
 2026-01-09T19,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,91185,megawatthours
-2026-01-09T19,MIDW,Midwest,D,Demand,78064,megawatthours
+2026-01-09T19,MIDW,Midwest,D,Demand,81850,megawatthours
 2026-01-09T19,MIDW,Midwest,DF,Day-ahead demand forecast,79505,megawatthours
 2026-01-09T19,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,75964,megawatthours
 2026-01-09T19,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,77271,megawatthours
 2026-01-09T19,NE,New England,D,Demand,13896,megawatthours
-2026-01-09T19,NE,New England,DF,Day-ahead demand forecast,14500,megawatthours
+2026-01-09T19,NE,New England,DF,Day-ahead demand forecast,13800,megawatthours
 2026-01-09T19,NEVP,Nevada Power Company,D,Demand,4019,megawatthours
 2026-01-09T19,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3668,megawatthours
 2026-01-09T19,NW,Northwest,D,Demand,48281,megawatthours
-2026-01-09T19,NW,Northwest,DF,Day-ahead demand forecast,44617,megawatthours
+2026-01-09T19,NW,Northwest,DF,Day-ahead demand forecast,44574,megawatthours
 2026-01-09T19,NWMT,NorthWestern Corporation,D,Demand,1507,megawatthours
 2026-01-09T19,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1520,megawatthours
 2026-01-09T19,NY,New York,D,Demand,18275,megawatthours
@@ -886,7 +1215,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T19,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,215,megawatthours
 2026-01-09T19,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,24954,megawatthours
 2026-01-09T19,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,24925,megawatthours
-2026-01-09T19,SPA,Southwestern Power Administration,D,Demand,27,megawatthours
+2026-01-09T19,SPA,Southwestern Power Administration,D,Demand,14,megawatthours
 2026-01-09T19,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3629,megawatthours
 2026-01-09T19,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3536,megawatthours
 2026-01-09T19,SW,Southwest,D,Demand,13917,megawatthours
@@ -909,8 +1238,8 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T19,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,683,megawatthours
 2026-01-09T19,TVA,Tennessee Valley Authority,D,Demand,17454,megawatthours
 2026-01-09T19,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,17207,megawatthours
-2026-01-09T19,US48,United States Lower 48,D,Demand,479079,megawatthours
-2026-01-09T19,US48,United States Lower 48,DF,Day-ahead demand forecast,466019,megawatthours
+2026-01-09T19,US48,United States Lower 48,D,Demand,482866,megawatthours
+2026-01-09T19,US48,United States Lower 48,DF,Day-ahead demand forecast,465276,megawatthours
 2026-01-09T19,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4318,megawatthours
 2026-01-09T19,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3665,megawatthours
 2026-01-09T19,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,900,megawatthours
@@ -925,12 +1254,12 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T18,BANC,Balancing Authority of Northern California,D,Demand,2230,megawatthours
 2026-01-09T18,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2168,megawatthours
 2026-01-09T18,BPAT,Bonneville Power Administration,D,Demand,8994,megawatthours
-2026-01-09T18,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8919,megawatthours
+2026-01-09T18,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8850,megawatthours
 2026-01-09T18,CAL,California,D,Demand,34461,megawatthours
 2026-01-09T18,CAL,California,DF,Day-ahead demand forecast,28758,megawatthours
 2026-01-09T18,CAR,Carolinas,D,Demand,21093,megawatthours
 2026-01-09T18,CAR,Carolinas,DF,Day-ahead demand forecast,20722,megawatthours
-2026-01-09T18,CENT,Central,D,Demand,31257,megawatthours
+2026-01-09T18,CENT,Central,D,Demand,31248,megawatthours
 2026-01-09T18,CENT,Central,DF,Day-ahead demand forecast,37458,megawatthours
 2026-01-09T18,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,342,megawatthours
 2026-01-09T18,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,342,megawatthours
@@ -948,11 +1277,11 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T18,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,885,megawatthours
 2026-01-09T18,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,51198,megawatthours
 2026-01-09T18,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,51613,megawatthours
-2026-01-09T18,FLA,Florida,D,Demand,29590,megawatthours
+2026-01-09T18,FLA,Florida,D,Demand,29588,megawatthours
 2026-01-09T18,FLA,Florida,DF,Day-ahead demand forecast,28629,megawatthours
 2026-01-09T18,FMPP,Florida Municipal Power Pool,D,Demand,2185,megawatthours
 2026-01-09T18,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,2206,megawatthours
-2026-01-09T18,FPC,"Duke Energy Florida, Inc.",D,Demand,5931,megawatthours
+2026-01-09T18,FPC,"Duke Energy Florida, Inc.",D,Demand,5929,megawatthours
 2026-01-09T18,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,4462,megawatthours
 2026-01-09T18,FPL,Florida Power & Light Co.,D,Demand,16682,megawatthours
 2026-01-09T18,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,17094,megawatthours
@@ -967,24 +1296,24 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T18,IPCO,Idaho Power Company,D,Demand,2330,megawatthours
 2026-01-09T18,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2209,megawatthours
 2026-01-09T18,ISNE,ISO New England,D,Demand,13647,megawatthours
-2026-01-09T18,ISNE,ISO New England,DF,Day-ahead demand forecast,14290,megawatthours
+2026-01-09T18,ISNE,ISO New England,DF,Day-ahead demand forecast,13590,megawatthours
 2026-01-09T18,JEA,JEA,D,Demand,1494,megawatthours
 2026-01-09T18,JEA,JEA,DF,Day-ahead demand forecast,1532,megawatthours
 2026-01-09T18,LDWP,Los Angeles Department of Water and Power,D,Demand,3072,megawatthours
 2026-01-09T18,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2671,megawatthours
-2026-01-09T18,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,3853,megawatthours
+2026-01-09T18,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,3867,megawatthours
 2026-01-09T18,MIDA,Mid-Atlantic,D,Demand,97452,megawatthours
 2026-01-09T18,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,91497,megawatthours
-2026-01-09T18,MIDW,Midwest,D,Demand,82306,megawatthours
+2026-01-09T18,MIDW,Midwest,D,Demand,82320,megawatthours
 2026-01-09T18,MIDW,Midwest,DF,Day-ahead demand forecast,79695,megawatthours
 2026-01-09T18,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,76255,megawatthours
 2026-01-09T18,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,77357,megawatthours
 2026-01-09T18,NE,New England,D,Demand,13647,megawatthours
-2026-01-09T18,NE,New England,DF,Day-ahead demand forecast,14290,megawatthours
+2026-01-09T18,NE,New England,DF,Day-ahead demand forecast,13590,megawatthours
 2026-01-09T18,NEVP,Nevada Power Company,D,Demand,4181,megawatthours
 2026-01-09T18,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3789,megawatthours
 2026-01-09T18,NW,Northwest,D,Demand,49474,megawatthours
-2026-01-09T18,NW,Northwest,DF,Day-ahead demand forecast,45369,megawatthours
+2026-01-09T18,NW,Northwest,DF,Day-ahead demand forecast,45300,megawatthours
 2026-01-09T18,NWMT,NorthWestern Corporation,D,Demand,1557,megawatthours
 2026-01-09T18,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1549,megawatthours
 2026-01-09T18,NY,New York,D,Demand,17979,megawatthours
@@ -1015,7 +1344,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T18,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,202,megawatthours
 2026-01-09T18,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,24806,megawatthours
 2026-01-09T18,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,24826,megawatthours
-2026-01-09T18,SPA,Southwestern Power Administration,D,Demand,31,megawatthours
+2026-01-09T18,SPA,Southwestern Power Administration,D,Demand,22,megawatthours
 2026-01-09T18,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3816,megawatthours
 2026-01-09T18,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3682,megawatthours
 2026-01-09T18,SW,Southwest,D,Demand,14005,megawatthours
@@ -1026,7 +1355,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T18,TAL,City of Tallahassee,DF,Day-ahead demand forecast,282,megawatthours
 2026-01-09T18,TEC,Tampa Electric Company,D,Demand,2470,megawatthours
 2026-01-09T18,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,2598,megawatthours
-2026-01-09T18,TEN,Tennessee,D,Demand,17514,megawatthours
+2026-01-09T18,TEN,Tennessee,D,Demand,17515,megawatthours
 2026-01-09T18,TEN,Tennessee,DF,Day-ahead demand forecast,17273,megawatthours
 2026-01-09T18,TEPC,Tucson Electric Power,D,Demand,1442,megawatthours
 2026-01-09T18,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1466,megawatthours
@@ -1036,10 +1365,10 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T18,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,302,megawatthours
 2026-01-09T18,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,668,megawatthours
 2026-01-09T18,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,690,megawatthours
-2026-01-09T18,TVA,Tennessee Valley Authority,D,Demand,17514,megawatthours
+2026-01-09T18,TVA,Tennessee Valley Authority,D,Demand,17515,megawatthours
 2026-01-09T18,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,17273,megawatthours
-2026-01-09T18,US48,United States Lower 48,D,Demand,484782,megawatthours
-2026-01-09T18,US48,United States Lower 48,DF,Day-ahead demand forecast,469132,megawatthours
+2026-01-09T18,US48,United States Lower 48,D,Demand,484786,megawatthours
+2026-01-09T18,US48,United States Lower 48,DF,Day-ahead demand forecast,468363,megawatthours
 2026-01-09T18,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4273,megawatthours
 2026-01-09T18,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3637,megawatthours
 2026-01-09T18,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,944,megawatthours
@@ -1054,12 +1383,12 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T17,BANC,Balancing Authority of Northern California,D,Demand,2336,megawatthours
 2026-01-09T17,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2235,megawatthours
 2026-01-09T17,BPAT,Bonneville Power Administration,D,Demand,9120,megawatthours
-2026-01-09T17,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,9052,megawatthours
+2026-01-09T17,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,9001,megawatthours
 2026-01-09T17,CAL,California,D,Demand,34377,megawatthours
 2026-01-09T17,CAL,California,DF,Day-ahead demand forecast,31055,megawatthours
 2026-01-09T17,CAR,Carolinas,D,Demand,21390,megawatthours
 2026-01-09T17,CAR,Carolinas,DF,Day-ahead demand forecast,20972,megawatthours
-2026-01-09T17,CENT,Central,D,Demand,31247,megawatthours
+2026-01-09T17,CENT,Central,D,Demand,31245,megawatthours
 2026-01-09T17,CENT,Central,DF,Day-ahead demand forecast,37986,megawatthours
 2026-01-09T17,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,353,megawatthours
 2026-01-09T17,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,353,megawatthours
@@ -1077,9 +1406,9 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T17,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,910,megawatthours
 2026-01-09T17,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,50924,megawatthours
 2026-01-09T17,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,51631,megawatthours
-2026-01-09T17,FLA,Florida,D,Demand,28664,megawatthours
+2026-01-09T17,FLA,Florida,D,Demand,28378,megawatthours
 2026-01-09T17,FLA,Florida,DF,Day-ahead demand forecast,27496,megawatthours
-2026-01-09T17,FMPP,Florida Municipal Power Pool,D,Demand,2371,megawatthours
+2026-01-09T17,FMPP,Florida Municipal Power Pool,D,Demand,2085,megawatthours
 2026-01-09T17,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,2108,megawatthours
 2026-01-09T17,FPC,"Duke Energy Florida, Inc.",D,Demand,5614,megawatthours
 2026-01-09T17,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,4251,megawatthours
@@ -1096,24 +1425,24 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T17,IPCO,Idaho Power Company,D,Demand,2399,megawatthours
 2026-01-09T17,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2261,megawatthours
 2026-01-09T17,ISNE,ISO New England,D,Demand,13815,megawatthours
-2026-01-09T17,ISNE,ISO New England,DF,Day-ahead demand forecast,14250,megawatthours
+2026-01-09T17,ISNE,ISO New England,DF,Day-ahead demand forecast,13550,megawatthours
 2026-01-09T17,JEA,JEA,D,Demand,1450,megawatthours
 2026-01-09T17,JEA,JEA,DF,Day-ahead demand forecast,1473,megawatthours
 2026-01-09T17,LDWP,Los Angeles Department of Water and Power,D,Demand,3075,megawatthours
 2026-01-09T17,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2723,megawatthours
-2026-01-09T17,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,0,megawatthours
+2026-01-09T17,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,3839,megawatthours
 2026-01-09T17,MIDA,Mid-Atlantic,D,Demand,97627,megawatthours
 2026-01-09T17,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,92022,megawatthours
-2026-01-09T17,MIDW,Midwest,D,Demand,78930,megawatthours
+2026-01-09T17,MIDW,Midwest,D,Demand,82769,megawatthours
 2026-01-09T17,MIDW,Midwest,DF,Day-ahead demand forecast,79860,megawatthours
 2026-01-09T17,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,76592,megawatthours
 2026-01-09T17,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,77414,megawatthours
 2026-01-09T17,NE,New England,D,Demand,13815,megawatthours
-2026-01-09T17,NE,New England,DF,Day-ahead demand forecast,14250,megawatthours
+2026-01-09T17,NE,New England,DF,Day-ahead demand forecast,13550,megawatthours
 2026-01-09T17,NEVP,Nevada Power Company,D,Demand,4370,megawatthours
 2026-01-09T17,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3965,megawatthours
 2026-01-09T17,NW,Northwest,D,Demand,50160,megawatthours
-2026-01-09T17,NW,Northwest,DF,Day-ahead demand forecast,46104,megawatthours
+2026-01-09T17,NW,Northwest,DF,Day-ahead demand forecast,46053,megawatthours
 2026-01-09T17,NWMT,NorthWestern Corporation,D,Demand,1556,megawatthours
 2026-01-09T17,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1570,megawatthours
 2026-01-09T17,NY,New York,D,Demand,17848,megawatthours
@@ -1144,7 +1473,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T17,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,189,megawatthours
 2026-01-09T17,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,24710,megawatthours
 2026-01-09T17,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,24528,megawatthours
-2026-01-09T17,SPA,Southwestern Power Administration,D,Demand,21,megawatthours
+2026-01-09T17,SPA,Southwestern Power Administration,D,Demand,19,megawatthours
 2026-01-09T17,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3972,megawatthours
 2026-01-09T17,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3872,megawatthours
 2026-01-09T17,SW,Southwest,D,Demand,14145,megawatthours
@@ -1155,7 +1484,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T17,TAL,City of Tallahassee,DF,Day-ahead demand forecast,283,megawatthours
 2026-01-09T17,TEC,Tampa Electric Company,D,Demand,2375,megawatthours
 2026-01-09T17,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,2465,megawatthours
-2026-01-09T17,TEN,Tennessee,D,Demand,17459,megawatthours
+2026-01-09T17,TEN,Tennessee,D,Demand,17457,megawatthours
 2026-01-09T17,TEN,Tennessee,DF,Day-ahead demand forecast,17286,megawatthours
 2026-01-09T17,TEPC,Tucson Electric Power,D,Demand,1581,megawatthours
 2026-01-09T17,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1602,megawatthours
@@ -1165,10 +1494,10 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T17,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,316,megawatthours
 2026-01-09T17,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,678,megawatthours
 2026-01-09T17,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,697,megawatthours
-2026-01-09T17,TVA,Tennessee Valley Authority,D,Demand,17459,megawatthours
+2026-01-09T17,TVA,Tennessee Valley Authority,D,Demand,17457,megawatthours
 2026-01-09T17,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,17286,megawatthours
-2026-01-09T17,US48,United States Lower 48,D,Demand,481296,megawatthours
-2026-01-09T17,US48,United States Lower 48,DF,Day-ahead demand forecast,472960,megawatthours
+2026-01-09T17,US48,United States Lower 48,D,Demand,484845,megawatthours
+2026-01-09T17,US48,United States Lower 48,DF,Day-ahead demand forecast,472209,megawatthours
 2026-01-09T17,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4291,megawatthours
 2026-01-09T17,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3662,megawatthours
 2026-01-09T17,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,1004,megawatthours
@@ -1183,7 +1512,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T16,BANC,Balancing Authority of Northern California,D,Demand,2377,megawatthours
 2026-01-09T16,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2280,megawatthours
 2026-01-09T16,BPAT,Bonneville Power Administration,D,Demand,9134,megawatthours
-2026-01-09T16,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8976,megawatthours
+2026-01-09T16,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8926,megawatthours
 2026-01-09T16,CAL,California,D,Demand,33982,megawatthours
 2026-01-09T16,CAL,California,DF,Day-ahead demand forecast,32353,megawatthours
 2026-01-09T16,CAR,Carolinas,D,Demand,21796,megawatthours
@@ -1225,7 +1554,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T16,IPCO,Idaho Power Company,D,Demand,2447,megawatthours
 2026-01-09T16,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2294,megawatthours
 2026-01-09T16,ISNE,ISO New England,D,Demand,13833,megawatthours
-2026-01-09T16,ISNE,ISO New England,DF,Day-ahead demand forecast,14320,megawatthours
+2026-01-09T16,ISNE,ISO New England,DF,Day-ahead demand forecast,13620,megawatthours
 2026-01-09T16,JEA,JEA,D,Demand,1390,megawatthours
 2026-01-09T16,JEA,JEA,DF,Day-ahead demand forecast,1414,megawatthours
 2026-01-09T16,LDWP,Los Angeles Department of Water and Power,D,Demand,3076,megawatthours
@@ -1238,11 +1567,11 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T16,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,77203,megawatthours
 2026-01-09T16,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,77314,megawatthours
 2026-01-09T16,NE,New England,D,Demand,13833,megawatthours
-2026-01-09T16,NE,New England,DF,Day-ahead demand forecast,14320,megawatthours
+2026-01-09T16,NE,New England,DF,Day-ahead demand forecast,13620,megawatthours
 2026-01-09T16,NEVP,Nevada Power Company,D,Demand,4543,megawatthours
 2026-01-09T16,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,4119,megawatthours
 2026-01-09T16,NW,Northwest,D,Demand,50085,megawatthours
-2026-01-09T16,NW,Northwest,DF,Day-ahead demand forecast,46286,megawatthours
+2026-01-09T16,NW,Northwest,DF,Day-ahead demand forecast,46236,megawatthours
 2026-01-09T16,NWMT,NorthWestern Corporation,D,Demand,1565,megawatthours
 2026-01-09T16,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1583,megawatthours
 2026-01-09T16,NY,New York,D,Demand,17889,megawatthours
@@ -1276,7 +1605,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T16,SPA,Southwestern Power Administration,D,Demand,18,megawatthours
 2026-01-09T16,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,4175,megawatthours
 2026-01-09T16,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,4056,megawatthours
-2026-01-09T16,SW,Southwest,D,Demand,14702,megawatthours
+2026-01-09T16,SW,Southwest,D,Demand,14703,megawatthours
 2026-01-09T16,SW,Southwest,DF,Day-ahead demand forecast,12565,megawatthours
 2026-01-09T16,SWPP,Southwest Power Pool,D,Demand,31226,megawatthours
 2026-01-09T16,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,38552,megawatthours
@@ -1296,28 +1625,28 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T16,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,690,megawatthours
 2026-01-09T16,TVA,Tennessee Valley Authority,D,Demand,17063,megawatthours
 2026-01-09T16,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,16964,megawatthours
-2026-01-09T16,US48,United States Lower 48,D,Demand,483625,megawatthours
-2026-01-09T16,US48,United States Lower 48,DF,Day-ahead demand forecast,475880,megawatthours
+2026-01-09T16,US48,United States Lower 48,D,Demand,483626,megawatthours
+2026-01-09T16,US48,United States Lower 48,DF,Day-ahead demand forecast,475130,megawatthours
 2026-01-09T16,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4189,megawatthours
 2026-01-09T16,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3689,megawatthours
-2026-01-09T16,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,978,megawatthours
+2026-01-09T16,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,979,megawatthours
 2026-01-09T16,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,114,megawatthours
 2026-01-09T16,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,121,megawatthours
 2026-01-09T15,AECI,"Associated Electric Cooperative, Inc.",D,Demand,2556,megawatthours
 2026-01-09T15,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2603,megawatthours
-2026-01-09T15,AVA,Avista Corporation,D,Demand,1753,megawatthours
+2026-01-09T15,AVA,Avista Corporation,D,Demand,1752,megawatthours
 2026-01-09T15,AVA,Avista Corporation,DF,Day-ahead demand forecast,1737,megawatthours
 2026-01-09T15,AZPS,Arizona Public Service Company,D,Demand,5115,megawatthours
 2026-01-09T15,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,4524,megawatthours
 2026-01-09T15,BANC,Balancing Authority of Northern California,D,Demand,2219,megawatthours
 2026-01-09T15,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2151,megawatthours
 2026-01-09T15,BPAT,Bonneville Power Administration,D,Demand,8728,megawatthours
-2026-01-09T15,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8633,megawatthours
+2026-01-09T15,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8591,megawatthours
 2026-01-09T15,CAL,California,D,Demand,31996,megawatthours
 2026-01-09T15,CAL,California,DF,Day-ahead demand forecast,30697,megawatthours
 2026-01-09T15,CAR,Carolinas,D,Demand,22202,megawatthours
 2026-01-09T15,CAR,Carolinas,DF,Day-ahead demand forecast,22021,megawatthours
-2026-01-09T15,CENT,Central,D,Demand,31254,megawatthours
+2026-01-09T15,CENT,Central,D,Demand,31238,megawatthours
 2026-01-09T15,CENT,Central,DF,Day-ahead demand forecast,39011,megawatthours
 2026-01-09T15,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,344,megawatthours
 2026-01-09T15,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,344,megawatthours
@@ -1354,7 +1683,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T15,IPCO,Idaho Power Company,D,Demand,2407,megawatthours
 2026-01-09T15,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2303,megawatthours
 2026-01-09T15,ISNE,ISO New England,D,Demand,14650,megawatthours
-2026-01-09T15,ISNE,ISO New England,DF,Day-ahead demand forecast,14650,megawatthours
+2026-01-09T15,ISNE,ISO New England,DF,Day-ahead demand forecast,13950,megawatthours
 2026-01-09T15,JEA,JEA,D,Demand,1336,megawatthours
 2026-01-09T15,JEA,JEA,DF,Day-ahead demand forecast,1357,megawatthours
 2026-01-09T15,LDWP,Los Angeles Department of Water and Power,D,Demand,2947,megawatthours
@@ -1367,11 +1696,11 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T15,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,77342,megawatthours
 2026-01-09T15,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,77042,megawatthours
 2026-01-09T15,NE,New England,D,Demand,14650,megawatthours
-2026-01-09T15,NE,New England,DF,Day-ahead demand forecast,14650,megawatthours
+2026-01-09T15,NE,New England,DF,Day-ahead demand forecast,13950,megawatthours
 2026-01-09T15,NEVP,Nevada Power Company,D,Demand,4541,megawatthours
 2026-01-09T15,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,4176,megawatthours
-2026-01-09T15,NW,Northwest,D,Demand,48437,megawatthours
-2026-01-09T15,NW,Northwest,DF,Day-ahead demand forecast,45303,megawatthours
+2026-01-09T15,NW,Northwest,D,Demand,48436,megawatthours
+2026-01-09T15,NW,Northwest,DF,Day-ahead demand forecast,45261,megawatthours
 2026-01-09T15,NWMT,NorthWestern Corporation,D,Demand,1546,megawatthours
 2026-01-09T15,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1570,megawatthours
 2026-01-09T15,NY,New York,D,Demand,18162,megawatthours
@@ -1402,7 +1731,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T15,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,171,megawatthours
 2026-01-09T15,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,24309,megawatthours
 2026-01-09T15,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,23782,megawatthours
-2026-01-09T15,SPA,Southwestern Power Administration,D,Demand,28,megawatthours
+2026-01-09T15,SPA,Southwestern Power Administration,D,Demand,12,megawatthours
 2026-01-09T15,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,4317,megawatthours
 2026-01-09T15,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,4113,megawatthours
 2026-01-09T15,SW,Southwest,D,Demand,15180,megawatthours
@@ -1425,8 +1754,8 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T15,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,656,megawatthours
 2026-01-09T15,TVA,Tennessee Valley Authority,D,Demand,16806,megawatthours
 2026-01-09T15,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,16781,megawatthours
-2026-01-09T15,US48,United States Lower 48,D,Demand,480418,megawatthours
-2026-01-09T15,US48,United States Lower 48,DF,Day-ahead demand forecast,474111,megawatthours
+2026-01-09T15,US48,United States Lower 48,D,Demand,480401,megawatthours
+2026-01-09T15,US48,United States Lower 48,DF,Day-ahead demand forecast,473369,megawatthours
 2026-01-09T15,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4052,megawatthours
 2026-01-09T15,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3657,megawatthours
 2026-01-09T15,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,995,megawatthours
@@ -1441,7 +1770,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T14,BANC,Balancing Authority of Northern California,D,Demand,1994,megawatthours
 2026-01-09T14,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,1971,megawatthours
 2026-01-09T14,BPAT,Bonneville Power Administration,D,Demand,8195,megawatthours
-2026-01-09T14,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8135,megawatthours
+2026-01-09T14,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8110,megawatthours
 2026-01-09T14,CAL,California,D,Demand,29607,megawatthours
 2026-01-09T14,CAL,California,DF,Day-ahead demand forecast,27990,megawatthours
 2026-01-09T14,CAR,Carolinas,D,Demand,22488,megawatthours
@@ -1500,7 +1829,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T14,NEVP,Nevada Power Company,D,Demand,4305,megawatthours
 2026-01-09T14,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3931,megawatthours
 2026-01-09T14,NW,Northwest,D,Demand,45415,megawatthours
-2026-01-09T14,NW,Northwest,DF,Day-ahead demand forecast,42919,megawatthours
+2026-01-09T14,NW,Northwest,DF,Day-ahead demand forecast,42894,megawatthours
 2026-01-09T14,NWMT,NorthWestern Corporation,D,Demand,1466,megawatthours
 2026-01-09T14,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1488,megawatthours
 2026-01-09T14,NY,New York,D,Demand,18483,megawatthours
@@ -1515,7 +1844,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T14,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,2705,megawatthours
 2026-01-09T14,PJM,"PJM Interconnection, LLC",D,Demand,99807,megawatthours
 2026-01-09T14,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,95932,megawatthours
-2026-01-09T14,PNM,Public Service Company of New Mexico,D,Demand,1860,megawatthours
+2026-01-09T14,PNM,Public Service Company of New Mexico,D,Demand,1859,megawatthours
 2026-01-09T14,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,1772,megawatthours
 2026-01-09T14,PSCO,Public Service Company of Colorado,D,Demand,5259,megawatthours
 2026-01-09T14,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,5025,megawatthours
@@ -1534,7 +1863,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T14,SPA,Southwestern Power Administration,D,Demand,20,megawatthours
 2026-01-09T14,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,4128,megawatthours
 2026-01-09T14,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3932,megawatthours
-2026-01-09T14,SW,Southwest,D,Demand,14665,megawatthours
+2026-01-09T14,SW,Southwest,D,Demand,14664,megawatthours
 2026-01-09T14,SW,Southwest,DF,Day-ahead demand forecast,13116,megawatthours
 2026-01-09T14,SWPP,Southwest Power Pool,D,Demand,31226,megawatthours
 2026-01-09T14,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,39069,megawatthours
@@ -1542,7 +1871,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T14,TAL,City of Tallahassee,DF,Day-ahead demand forecast,273,megawatthours
 2026-01-09T14,TEC,Tampa Electric Company,D,Demand,2011,megawatthours
 2026-01-09T14,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,2107,megawatthours
-2026-01-09T14,TEN,Tennessee,D,Demand,16635,megawatthours
+2026-01-09T14,TEN,Tennessee,D,Demand,16634,megawatthours
 2026-01-09T14,TEN,Tennessee,DF,Day-ahead demand forecast,16526,megawatthours
 2026-01-09T14,TEPC,Tucson Electric Power,D,Demand,1767,megawatthours
 2026-01-09T14,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1738,megawatthours
@@ -1552,10 +1881,10 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T14,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,280,megawatthours
 2026-01-09T14,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,579,megawatthours
 2026-01-09T14,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,603,megawatthours
-2026-01-09T14,TVA,Tennessee Valley Authority,D,Demand,16635,megawatthours
+2026-01-09T14,TVA,Tennessee Valley Authority,D,Demand,16634,megawatthours
 2026-01-09T14,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,16526,megawatthours
-2026-01-09T14,US48,United States Lower 48,D,Demand,474951,megawatthours
-2026-01-09T14,US48,United States Lower 48,DF,Day-ahead demand forecast,468108,megawatthours
+2026-01-09T14,US48,United States Lower 48,D,Demand,474949,megawatthours
+2026-01-09T14,US48,United States Lower 48,DF,Day-ahead demand forecast,468083,megawatthours
 2026-01-09T14,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3961,megawatthours
 2026-01-09T14,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3604,megawatthours
 2026-01-09T14,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,948,megawatthours
@@ -1570,7 +1899,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T13,BANC,Balancing Authority of Northern California,D,Demand,1856,megawatthours
 2026-01-09T13,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,1860,megawatthours
 2026-01-09T13,BPAT,Bonneville Power Administration,D,Demand,7752,megawatthours
-2026-01-09T13,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,7703,megawatthours
+2026-01-09T13,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,7692,megawatthours
 2026-01-09T13,CAL,California,D,Demand,28447,megawatthours
 2026-01-09T13,CAL,California,DF,Day-ahead demand forecast,26267,megawatthours
 2026-01-09T13,CAR,Carolinas,D,Demand,22567,megawatthours
@@ -1629,7 +1958,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T13,NEVP,Nevada Power Company,D,Demand,4150,megawatthours
 2026-01-09T13,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3740,megawatthours
 2026-01-09T13,NW,Northwest,D,Demand,42795,megawatthours
-2026-01-09T13,NW,Northwest,DF,Day-ahead demand forecast,40663,megawatthours
+2026-01-09T13,NW,Northwest,DF,Day-ahead demand forecast,40652,megawatthours
 2026-01-09T13,NWMT,NorthWestern Corporation,D,Demand,1310,megawatthours
 2026-01-09T13,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1397,megawatthours
 2026-01-09T13,NY,New York,D,Demand,18495,megawatthours
@@ -1684,7 +2013,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T13,TVA,Tennessee Valley Authority,D,Demand,16405,megawatthours
 2026-01-09T13,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,16048,megawatthours
 2026-01-09T13,US48,United States Lower 48,D,Demand,464038,megawatthours
-2026-01-09T13,US48,United States Lower 48,DF,Day-ahead demand forecast,455865,megawatthours
+2026-01-09T13,US48,United States Lower 48,DF,Day-ahead demand forecast,455854,megawatthours
 2026-01-09T13,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3824,megawatthours
 2026-01-09T13,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3451,megawatthours
 2026-01-09T13,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,780,megawatthours
@@ -1833,7 +2162,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T11,CAL,California,DF,Day-ahead demand forecast,25844,megawatthours
 2026-01-09T11,CAR,Carolinas,D,Demand,19816,megawatthours
 2026-01-09T11,CAR,Carolinas,DF,Day-ahead demand forecast,19562,megawatthours
-2026-01-09T11,CENT,Central,D,Demand,31239,megawatthours
+2026-01-09T11,CENT,Central,D,Demand,31238,megawatthours
 2026-01-09T11,CENT,Central,DF,Day-ahead demand forecast,33947,megawatthours
 2026-01-09T11,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,279,megawatthours
 2026-01-09T11,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,279,megawatthours
@@ -1918,7 +2247,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T11,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,133,megawatthours
 2026-01-09T11,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,20851,megawatthours
 2026-01-09T11,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,20255,megawatthours
-2026-01-09T11,SPA,Southwestern Power Administration,D,Demand,13,megawatthours
+2026-01-09T11,SPA,Southwestern Power Administration,D,Demand,12,megawatthours
 2026-01-09T11,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3453,megawatthours
 2026-01-09T11,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3310,megawatthours
 2026-01-09T11,SW,Southwest,D,Demand,12517,megawatthours
@@ -1941,7 +2270,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T11,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,530,megawatthours
 2026-01-09T11,TVA,Tennessee Valley Authority,D,Demand,14326,megawatthours
 2026-01-09T11,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,14138,megawatthours
-2026-01-09T11,US48,United States Lower 48,D,Demand,421659,megawatthours
+2026-01-09T11,US48,United States Lower 48,D,Demand,421658,megawatthours
 2026-01-09T11,US48,United States Lower 48,DF,Day-ahead demand forecast,415142,megawatthours
 2026-01-09T11,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3578,megawatthours
 2026-01-09T11,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3364,megawatthours
@@ -2274,7 +2603,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T08,NEVP,Nevada Power Company,D,Demand,4274,megawatthours
 2026-01-09T08,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3978,megawatthours
 2026-01-09T08,NW,Northwest,D,Demand,42825,megawatthours
-2026-01-09T08,NW,Northwest,DF,Day-ahead demand forecast,37804,megawatthours
+2026-01-09T08,NW,Northwest,DF,Day-ahead demand forecast,40560,megawatthours
 2026-01-09T08,NWMT,NorthWestern Corporation,D,Demand,1348,megawatthours
 2026-01-09T08,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1364,megawatthours
 2026-01-09T08,NY,New York,D,Demand,15235,megawatthours
@@ -2284,6 +2613,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T08,PACE,PacifiCorp East,D,Demand,6145,megawatthours
 2026-01-09T08,PACE,PacifiCorp East,DF,Day-ahead demand forecast,6179,megawatthours
 2026-01-09T08,PACW,PacifiCorp West,D,Demand,2556,megawatthours
+2026-01-09T08,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2617,megawatthours
 2026-01-09T08,PGE,Portland General Electric Company,D,Demand,2725,megawatthours
 2026-01-09T08,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,2712,megawatthours
 2026-01-09T08,PJM,"PJM Interconnection, LLC",D,Demand,87339,megawatthours
@@ -2293,7 +2623,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T08,PSCO,Public Service Company of Colorado,D,Demand,4668,megawatthours
 2026-01-09T08,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,4503,megawatthours
 2026-01-09T08,PSEI,"Puget Sound Energy, Inc.",D,Demand,3057,megawatthours
-2026-01-09T08,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1468,megawatthours
+2026-01-09T08,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1607,megawatthours
 2026-01-09T08,SC,South Carolina Public Service Authority,D,Demand,2476,megawatthours
 2026-01-09T08,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,2476,megawatthours
 2026-01-09T08,SCL,Seattle City Light,D,Demand,1125,megawatthours
@@ -2328,7 +2658,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T08,TVA,Tennessee Valley Authority,D,Demand,14375,megawatthours
 2026-01-09T08,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,14297,megawatthours
 2026-01-09T08,US48,United States Lower 48,D,Demand,416432,megawatthours
-2026-01-09T08,US48,United States Lower 48,DF,Day-ahead demand forecast,398154,megawatthours
+2026-01-09T08,US48,United States Lower 48,DF,Day-ahead demand forecast,400910,megawatthours
 2026-01-09T08,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3545,megawatthours
 2026-01-09T08,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3294,megawatthours
 2026-01-09T08,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,704,megawatthours
@@ -2431,7 +2761,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T07,NEVP,Nevada Power Company,NG,Net generation,3208,megawatthours
 2026-01-09T07,NEVP,Nevada Power Company,TI,Total interchange,-686,megawatthours
 2026-01-09T07,NW,Northwest,D,Demand,44839,megawatthours
-2026-01-09T07,NW,Northwest,DF,Day-ahead demand forecast,32643,megawatthours
+2026-01-09T07,NW,Northwest,DF,Day-ahead demand forecast,41875,megawatthours
 2026-01-09T07,NWMT,NorthWestern Corporation,D,Demand,1416,megawatthours
 2026-01-09T07,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1375,megawatthours
 2026-01-09T07,NY,New York,D,Demand,15524,megawatthours
@@ -2439,7 +2769,9 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T07,NYIS,New York Independent System Operator,D,Demand,15524,megawatthours
 2026-01-09T07,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,15112,megawatthours
 2026-01-09T07,PACE,PacifiCorp East,D,Demand,6346,megawatthours
+2026-01-09T07,PACE,PacifiCorp East,DF,Day-ahead demand forecast,6417,megawatthours
 2026-01-09T07,PACW,PacifiCorp West,D,Demand,2691,megawatthours
+2026-01-09T07,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2755,megawatthours
 2026-01-09T07,PACW,PacifiCorp West,NG,Net generation,1021,megawatthours
 2026-01-09T07,PACW,PacifiCorp West,TI,Total interchange,-1670,megawatthours
 2026-01-09T07,PGE,Portland General Electric Company,D,Demand,2904,megawatthours
@@ -2453,7 +2785,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T07,PSCO,Public Service Company of Colorado,D,Demand,4956,megawatthours
 2026-01-09T07,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,4613,megawatthours
 2026-01-09T07,PSEI,"Puget Sound Energy, Inc.",D,Demand,3295,megawatthours
-2026-01-09T07,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1453,megawatthours
+2026-01-09T07,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1513,megawatthours
 2026-01-09T07,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,479,megawatthours
 2026-01-09T07,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,-2816,megawatthours
 2026-01-09T07,SC,South Carolina Public Service Authority,D,Demand,2526,megawatthours
@@ -2496,7 +2828,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T07,TVA,Tennessee Valley Authority,D,Demand,14835,megawatthours
 2026-01-09T07,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,14741,megawatthours
 2026-01-09T07,US48,United States Lower 48,D,Demand,425838,megawatthours
-2026-01-09T07,US48,United States Lower 48,DF,Day-ahead demand forecast,400716,megawatthours
+2026-01-09T07,US48,United States Lower 48,DF,Day-ahead demand forecast,409948,megawatthours
 2026-01-09T07,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3592,megawatthours
 2026-01-09T07,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3338,megawatthours
 2026-01-09T07,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,760,megawatthours
@@ -2608,7 +2940,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T06,NEVP,Nevada Power Company,NG,Net generation,3240,megawatthours
 2026-01-09T06,NEVP,Nevada Power Company,TI,Total interchange,-685,megawatthours
 2026-01-09T06,NW,Northwest,D,Demand,47210,megawatthours
-2026-01-09T06,NW,Northwest,DF,Day-ahead demand forecast,33953,megawatthours
+2026-01-09T06,NW,Northwest,DF,Day-ahead demand forecast,43549,megawatthours
 2026-01-09T06,NW,Northwest,NG,Net generation,52383,megawatthours
 2026-01-09T06,NW,Northwest,TI,Total interchange,5984,megawatthours
 2026-01-09T06,NWMT,NorthWestern Corporation,D,Demand,1450,megawatthours
@@ -2620,9 +2952,11 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T06,NYIS,New York Independent System Operator,D,Demand,15936,megawatthours
 2026-01-09T06,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,15572,megawatthours
 2026-01-09T06,PACE,PacifiCorp East,D,Demand,6570,megawatthours
+2026-01-09T06,PACE,PacifiCorp East,DF,Day-ahead demand forecast,6621,megawatthours
 2026-01-09T06,PACE,PacifiCorp East,NG,Net generation,7672,megawatthours
 2026-01-09T06,PACE,PacifiCorp East,TI,Total interchange,1102,megawatthours
 2026-01-09T06,PACW,PacifiCorp West,D,Demand,2857,megawatthours
+2026-01-09T06,PACW,PacifiCorp West,DF,Day-ahead demand forecast,2913,megawatthours
 2026-01-09T06,PACW,PacifiCorp West,NG,Net generation,1005,megawatthours
 2026-01-09T06,PACW,PacifiCorp West,TI,Total interchange,-1852,megawatthours
 2026-01-09T06,PGE,Portland General Electric Company,D,Demand,3117,megawatthours
@@ -2640,7 +2974,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T06,PSCO,Public Service Company of Colorado,NG,Net generation,5073,megawatthours
 2026-01-09T06,PSCO,Public Service Company of Colorado,TI,Total interchange,-162,megawatthours
 2026-01-09T06,PSEI,"Puget Sound Energy, Inc.",D,Demand,3573,megawatthours
-2026-01-09T06,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1393,megawatthours
+2026-01-09T06,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1455,megawatthours
 2026-01-09T06,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,517,megawatthours
 2026-01-09T06,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,-3056,megawatthours
 2026-01-09T06,SC,South Carolina Public Service Authority,D,Demand,2605,megawatthours
@@ -2688,7 +3022,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T06,TVA,Tennessee Valley Authority,D,Demand,15259,megawatthours
 2026-01-09T06,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,15287,megawatthours
 2026-01-09T06,US48,United States Lower 48,D,Demand,440088,megawatthours
-2026-01-09T06,US48,United States Lower 48,DF,Day-ahead demand forecast,414141,megawatthours
+2026-01-09T06,US48,United States Lower 48,DF,Day-ahead demand forecast,423737,megawatthours
 2026-01-09T06,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3727,megawatthours
 2026-01-09T06,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3459,megawatthours
 2026-01-09T06,WACM,Western Area Power Administration - Rocky Mountain Region,NG,Net generation,3282,megawatthours
@@ -2813,7 +3147,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T05,NEVP,Nevada Power Company,NG,Net generation,4382,megawatthours
 2026-01-09T05,NEVP,Nevada Power Company,TI,Total interchange,-503,megawatthours
 2026-01-09T05,NW,Northwest,D,Demand,48955,megawatthours
-2026-01-09T05,NW,Northwest,DF,Day-ahead demand forecast,35585,megawatthours
+2026-01-09T05,NW,Northwest,DF,Day-ahead demand forecast,45590,megawatthours
 2026-01-09T05,NW,Northwest,NG,Net generation,54664,megawatthours
 2026-01-09T05,NW,Northwest,TI,Total interchange,5640,megawatthours
 2026-01-09T05,NWMT,NorthWestern Corporation,D,Demand,1439,megawatthours
@@ -2825,9 +3159,11 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T05,NYIS,New York Independent System Operator,D,Demand,16579,megawatthours
 2026-01-09T05,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,16207,megawatthours
 2026-01-09T05,PACE,PacifiCorp East,D,Demand,6853,megawatthours
+2026-01-09T05,PACE,PacifiCorp East,DF,Day-ahead demand forecast,6878,megawatthours
 2026-01-09T05,PACE,PacifiCorp East,NG,Net generation,7933,megawatthours
 2026-01-09T05,PACE,PacifiCorp East,TI,Total interchange,1080,megawatthours
 2026-01-09T05,PACW,PacifiCorp West,D,Demand,2983,megawatthours
+2026-01-09T05,PACW,PacifiCorp West,DF,Day-ahead demand forecast,3052,megawatthours
 2026-01-09T05,PACW,PacifiCorp West,NG,Net generation,1013,megawatthours
 2026-01-09T05,PACW,PacifiCorp West,TI,Total interchange,-1970,megawatthours
 2026-01-09T05,PGE,Portland General Electric Company,D,Demand,3227,megawatthours
@@ -2845,7 +3181,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T05,PSCO,Public Service Company of Colorado,NG,Net generation,5232,megawatthours
 2026-01-09T05,PSCO,Public Service Company of Colorado,TI,Total interchange,-336,megawatthours
 2026-01-09T05,PSEI,"Puget Sound Energy, Inc.",D,Demand,3777,megawatthours
-2026-01-09T05,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1751,megawatthours
+2026-01-09T05,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1826,megawatthours
 2026-01-09T05,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,626,megawatthours
 2026-01-09T05,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,-3151,megawatthours
 2026-01-09T05,SC,South Carolina Public Service Authority,D,Demand,2571,megawatthours
@@ -2910,7 +3246,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T05,TVA,Tennessee Valley Authority,NG,Net generation,15482,megawatthours
 2026-01-09T05,TVA,Tennessee Valley Authority,TI,Total interchange,-619,megawatthours
 2026-01-09T05,US48,United States Lower 48,D,Demand,454287,megawatthours
-2026-01-09T05,US48,United States Lower 48,DF,Day-ahead demand forecast,433745,megawatthours
+2026-01-09T05,US48,United States Lower 48,DF,Day-ahead demand forecast,443750,megawatthours
 2026-01-09T05,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3749,megawatthours
 2026-01-09T05,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3569,megawatthours
 2026-01-09T05,WACM,Western Area Power Administration - Rocky Mountain Region,NG,Net generation,3427,megawatthours
@@ -3066,7 +3402,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T04,NEVP,Nevada Power Company,NG,Net generation,4454,megawatthours
 2026-01-09T04,NEVP,Nevada Power Company,TI,Total interchange,-483,megawatthours
 2026-01-09T04,NW,Northwest,D,Demand,50065,megawatthours
-2026-01-09T04,NW,Northwest,DF,Day-ahead demand forecast,36537,megawatthours
+2026-01-09T04,NW,Northwest,DF,Day-ahead demand forecast,46706,megawatthours
 2026-01-09T04,NW,Northwest,NG,Net generation,55600,megawatthours
 2026-01-09T04,NW,Northwest,TI,Total interchange,5465,megawatthours
 2026-01-09T04,NWMT,NorthWestern Corporation,D,Demand,1472,megawatthours
@@ -3082,9 +3418,11 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T04,NYIS,New York Independent System Operator,NG,Net generation,15533,megawatthours
 2026-01-09T04,NYIS,New York Independent System Operator,TI,Total interchange,-1985,megawatthours
 2026-01-09T04,PACE,PacifiCorp East,D,Demand,6812,megawatthours
+2026-01-09T04,PACE,PacifiCorp East,DF,Day-ahead demand forecast,7051,megawatthours
 2026-01-09T04,PACE,PacifiCorp East,NG,Net generation,7993,megawatthours
 2026-01-09T04,PACE,PacifiCorp East,TI,Total interchange,1181,megawatthours
 2026-01-09T04,PACW,PacifiCorp West,D,Demand,3040,megawatthours
+2026-01-09T04,PACW,PacifiCorp West,DF,Day-ahead demand forecast,3146,megawatthours
 2026-01-09T04,PACW,PacifiCorp West,NG,Net generation,1018,megawatthours
 2026-01-09T04,PACW,PacifiCorp West,TI,Total interchange,-2022,megawatthours
 2026-01-09T04,PGE,Portland General Electric Company,D,Demand,3326,megawatthours
@@ -3104,7 +3442,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T04,PSCO,Public Service Company of Colorado,NG,Net generation,5105,megawatthours
 2026-01-09T04,PSCO,Public Service Company of Colorado,TI,Total interchange,-703,megawatthours
 2026-01-09T04,PSEI,"Puget Sound Energy, Inc.",D,Demand,3897,megawatthours
-2026-01-09T04,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1772,megawatthours
+2026-01-09T04,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1744,megawatthours
 2026-01-09T04,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,644,megawatthours
 2026-01-09T04,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,-3253,megawatthours
 2026-01-09T04,SC,South Carolina Public Service Authority,D,Demand,2698,megawatthours
@@ -3176,7 +3514,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T04,TVA,Tennessee Valley Authority,NG,Net generation,16445,megawatthours
 2026-01-09T04,TVA,Tennessee Valley Authority,TI,Total interchange,-616,megawatthours
 2026-01-09T04,US48,United States Lower 48,D,Demand,472689,megawatthours
-2026-01-09T04,US48,United States Lower 48,DF,Day-ahead demand forecast,453664,megawatthours
+2026-01-09T04,US48,United States Lower 48,DF,Day-ahead demand forecast,463833,megawatthours
 2026-01-09T04,US48,United States Lower 48,NG,Net generation,471056,megawatthours
 2026-01-09T04,US48,United States Lower 48,TI,Total interchange,-4236,megawatthours
 2026-01-09T04,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3892,megawatthours
@@ -3336,7 +3674,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T03,NEVP,Nevada Power Company,NG,Net generation,4587,megawatthours
 2026-01-09T03,NEVP,Nevada Power Company,TI,Total interchange,-354,megawatthours
 2026-01-09T03,NW,Northwest,D,Demand,50857,megawatthours
-2026-01-09T03,NW,Northwest,DF,Day-ahead demand forecast,37020,megawatthours
+2026-01-09T03,NW,Northwest,DF,Day-ahead demand forecast,47385,megawatthours
 2026-01-09T03,NW,Northwest,NG,Net generation,55288,megawatthours
 2026-01-09T03,NW,Northwest,TI,Total interchange,4435,megawatthours
 2026-01-09T03,NWMT,NorthWestern Corporation,D,Demand,1526,megawatthours
@@ -3352,9 +3690,11 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T03,NYIS,New York Independent System Operator,NG,Net generation,16163,megawatthours
 2026-01-09T03,NYIS,New York Independent System Operator,TI,Total interchange,-2327,megawatthours
 2026-01-09T03,PACE,PacifiCorp East,D,Demand,6902,megawatthours
+2026-01-09T03,PACE,PacifiCorp East,DF,Day-ahead demand forecast,7152,megawatthours
 2026-01-09T03,PACE,PacifiCorp East,NG,Net generation,7392,megawatthours
 2026-01-09T03,PACE,PacifiCorp East,TI,Total interchange,490,megawatthours
 2026-01-09T03,PACW,PacifiCorp West,D,Demand,3068,megawatthours
+2026-01-09T03,PACW,PacifiCorp West,DF,Day-ahead demand forecast,3207,megawatthours
 2026-01-09T03,PACW,PacifiCorp West,NG,Net generation,1013,megawatthours
 2026-01-09T03,PACW,PacifiCorp West,TI,Total interchange,-2055,megawatthours
 2026-01-09T03,PGE,Portland General Electric Company,D,Demand,3393,megawatthours
@@ -3374,7 +3714,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T03,PSCO,Public Service Company of Colorado,NG,Net generation,5047,megawatthours
 2026-01-09T03,PSCO,Public Service Company of Colorado,TI,Total interchange,-863,megawatthours
 2026-01-09T03,PSEI,"Puget Sound Energy, Inc.",D,Demand,3999,megawatthours
-2026-01-09T03,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1671,megawatthours
+2026-01-09T03,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1677,megawatthours
 2026-01-09T03,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,670,megawatthours
 2026-01-09T03,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,-3329,megawatthours
 2026-01-09T03,SC,South Carolina Public Service Authority,D,Demand,2834,megawatthours
@@ -3446,7 +3786,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T03,TVA,Tennessee Valley Authority,NG,Net generation,17346,megawatthours
 2026-01-09T03,TVA,Tennessee Valley Authority,TI,Total interchange,-398,megawatthours
 2026-01-09T03,US48,United States Lower 48,D,Demand,487364,megawatthours
-2026-01-09T03,US48,United States Lower 48,DF,Day-ahead demand forecast,470006,megawatthours
+2026-01-09T03,US48,United States Lower 48,DF,Day-ahead demand forecast,480371,megawatthours
 2026-01-09T03,US48,United States Lower 48,NG,Net generation,484650,megawatthours
 2026-01-09T03,US48,United States Lower 48,TI,Total interchange,-5222,megawatthours
 2026-01-09T03,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3922,megawatthours
@@ -3606,7 +3946,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T02,NEVP,Nevada Power Company,NG,Net generation,4738,megawatthours
 2026-01-09T02,NEVP,Nevada Power Company,TI,Total interchange,-194,megawatthours
 2026-01-09T02,NW,Northwest,D,Demand,51348,megawatthours
-2026-01-09T02,NW,Northwest,DF,Day-ahead demand forecast,37248,megawatthours
+2026-01-09T02,NW,Northwest,DF,Day-ahead demand forecast,47719,megawatthours
 2026-01-09T02,NW,Northwest,NG,Net generation,55488,megawatthours
 2026-01-09T02,NW,Northwest,TI,Total interchange,4149,megawatthours
 2026-01-09T02,NWMT,NorthWestern Corporation,D,Demand,1546,megawatthours
@@ -3622,9 +3962,11 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T02,NYIS,New York Independent System Operator,NG,Net generation,16977,megawatthours
 2026-01-09T02,NYIS,New York Independent System Operator,TI,Total interchange,-2184,megawatthours
 2026-01-09T02,PACE,PacifiCorp East,D,Demand,6997,megawatthours
+2026-01-09T02,PACE,PacifiCorp East,DF,Day-ahead demand forecast,7208,megawatthours
 2026-01-09T02,PACE,PacifiCorp East,NG,Net generation,6963,megawatthours
 2026-01-09T02,PACE,PacifiCorp East,TI,Total interchange,-34,megawatthours
 2026-01-09T02,PACW,PacifiCorp West,D,Demand,3070,megawatthours
+2026-01-09T02,PACW,PacifiCorp West,DF,Day-ahead demand forecast,3180,megawatthours
 2026-01-09T02,PACW,PacifiCorp West,NG,Net generation,1023,megawatthours
 2026-01-09T02,PACW,PacifiCorp West,TI,Total interchange,-2047,megawatthours
 2026-01-09T02,PGE,Portland General Electric Company,D,Demand,3419,megawatthours
@@ -3644,7 +3986,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T02,PSCO,Public Service Company of Colorado,NG,Net generation,5108,megawatthours
 2026-01-09T02,PSCO,Public Service Company of Colorado,TI,Total interchange,-890,megawatthours
 2026-01-09T02,PSEI,"Puget Sound Energy, Inc.",D,Demand,4062,megawatthours
-2026-01-09T02,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1622,megawatthours
+2026-01-09T02,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1705,megawatthours
 2026-01-09T02,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,695,megawatthours
 2026-01-09T02,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,-3367,megawatthours
 2026-01-09T02,SC,South Carolina Public Service Authority,D,Demand,2933,megawatthours
@@ -3716,7 +4058,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T02,TVA,Tennessee Valley Authority,NG,Net generation,17982,megawatthours
 2026-01-09T02,TVA,Tennessee Valley Authority,TI,Total interchange,-183,megawatthours
 2026-01-09T02,US48,United States Lower 48,D,Demand,496407,megawatthours
-2026-01-09T02,US48,United States Lower 48,DF,Day-ahead demand forecast,482186,megawatthours
+2026-01-09T02,US48,United States Lower 48,DF,Day-ahead demand forecast,492657,megawatthours
 2026-01-09T02,US48,United States Lower 48,NG,Net generation,493058,megawatthours
 2026-01-09T02,US48,United States Lower 48,TI,Total interchange,-5609,megawatthours
 2026-01-09T02,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3965,megawatthours
@@ -3876,7 +4218,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T01,NEVP,Nevada Power Company,NG,Net generation,4917,megawatthours
 2026-01-09T01,NEVP,Nevada Power Company,TI,Total interchange,309,megawatthours
 2026-01-09T01,NW,Northwest,D,Demand,50491,megawatthours
-2026-01-09T01,NW,Northwest,DF,Day-ahead demand forecast,36536,megawatthours
+2026-01-09T01,NW,Northwest,DF,Day-ahead demand forecast,46818,megawatthours
 2026-01-09T01,NW,Northwest,NG,Net generation,54980,megawatthours
 2026-01-09T01,NW,Northwest,TI,Total interchange,4495,megawatthours
 2026-01-09T01,NWMT,NorthWestern Corporation,D,Demand,1523,megawatthours
@@ -3892,9 +4234,11 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T01,NYIS,New York Independent System Operator,NG,Net generation,17333,megawatthours
 2026-01-09T01,NYIS,New York Independent System Operator,TI,Total interchange,-2268,megawatthours
 2026-01-09T01,PACE,PacifiCorp East,D,Demand,7146,megawatthours
+2026-01-09T01,PACE,PacifiCorp East,DF,Day-ahead demand forecast,7152,megawatthours
 2026-01-09T01,PACE,PacifiCorp East,NG,Net generation,6707,megawatthours
 2026-01-09T01,PACE,PacifiCorp East,TI,Total interchange,-439,megawatthours
 2026-01-09T01,PACW,PacifiCorp West,D,Demand,2933,megawatthours
+2026-01-09T01,PACW,PacifiCorp West,DF,Day-ahead demand forecast,3076,megawatthours
 2026-01-09T01,PACW,PacifiCorp West,NG,Net generation,1024,megawatthours
 2026-01-09T01,PACW,PacifiCorp West,TI,Total interchange,-1909,megawatthours
 2026-01-09T01,PGE,Portland General Electric Company,D,Demand,3282,megawatthours
@@ -3914,7 +4258,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T01,PSCO,Public Service Company of Colorado,NG,Net generation,5302,megawatthours
 2026-01-09T01,PSCO,Public Service Company of Colorado,TI,Total interchange,-822,megawatthours
 2026-01-09T01,PSEI,"Puget Sound Energy, Inc.",D,Demand,3946,megawatthours
-2026-01-09T01,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1543,megawatthours
+2026-01-09T01,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1597,megawatthours
 2026-01-09T01,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,719,megawatthours
 2026-01-09T01,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,-3227,megawatthours
 2026-01-09T01,SC,South Carolina Public Service Authority,D,Demand,2937,megawatthours
@@ -3986,7 +4330,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T01,TVA,Tennessee Valley Authority,NG,Net generation,18364,megawatthours
 2026-01-09T01,TVA,Tennessee Valley Authority,TI,Total interchange,-153,megawatthours
 2026-01-09T01,US48,United States Lower 48,D,Demand,499172,megawatthours
-2026-01-09T01,US48,United States Lower 48,DF,Day-ahead demand forecast,487362,megawatthours
+2026-01-09T01,US48,United States Lower 48,DF,Day-ahead demand forecast,497644,megawatthours
 2026-01-09T01,US48,United States Lower 48,NG,Net generation,495143,megawatthours
 2026-01-09T01,US48,United States Lower 48,TI,Total interchange,-6208,megawatthours
 2026-01-09T01,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,4016,megawatthours
@@ -4146,7 +4490,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T00,NEVP,Nevada Power Company,NG,Net generation,4352,megawatthours
 2026-01-09T00,NEVP,Nevada Power Company,TI,Total interchange,-11,megawatthours
 2026-01-09T00,NW,Northwest,D,Demand,48595,megawatthours
-2026-01-09T00,NW,Northwest,DF,Day-ahead demand forecast,35109,megawatthours
+2026-01-09T00,NW,Northwest,DF,Day-ahead demand forecast,35203,megawatthours
 2026-01-09T00,NW,Northwest,NG,Net generation,51805,megawatthours
 2026-01-09T00,NW,Northwest,TI,Total interchange,3219,megawatthours
 2026-01-09T00,NWMT,NorthWestern Corporation,D,Demand,1396,megawatthours
@@ -4184,7 +4528,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T00,PSCO,Public Service Company of Colorado,NG,Net generation,5391,megawatthours
 2026-01-09T00,PSCO,Public Service Company of Colorado,TI,Total interchange,-713,megawatthours
 2026-01-09T00,PSEI,"Puget Sound Energy, Inc.",D,Demand,3807,megawatthours
-2026-01-09T00,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1372,megawatthours
+2026-01-09T00,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1466,megawatthours
 2026-01-09T00,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,627,megawatthours
 2026-01-09T00,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,-3180,megawatthours
 2026-01-09T00,SC,South Carolina Public Service Authority,D,Demand,2924,megawatthours
@@ -4257,7 +4601,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-09T00,TVA,Tennessee Valley Authority,NG,Net generation,18288,megawatthours
 2026-01-09T00,TVA,Tennessee Valley Authority,TI,Total interchange,-126,megawatthours
 2026-01-09T00,US48,United States Lower 48,D,Demand,494280,megawatthours
-2026-01-09T00,US48,United States Lower 48,DF,Day-ahead demand forecast,486021,megawatthours
+2026-01-09T00,US48,United States Lower 48,DF,Day-ahead demand forecast,486115,megawatthours
 2026-01-09T00,US48,United States Lower 48,NG,Net generation,492229,megawatthours
 2026-01-09T00,US48,United States Lower 48,TI,Total interchange,-3623,megawatthours
 2026-01-09T00,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3891,megawatthours
@@ -4417,7 +4761,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-08T23,NEVP,Nevada Power Company,NG,Net generation,4063,megawatthours
 2026-01-08T23,NEVP,Nevada Power Company,TI,Total interchange,-548,megawatthours
 2026-01-08T23,NW,Northwest,D,Demand,48508,megawatthours
-2026-01-08T23,NW,Northwest,DF,Day-ahead demand forecast,34198,megawatthours
+2026-01-08T23,NW,Northwest,DF,Day-ahead demand forecast,34309,megawatthours
 2026-01-08T23,NW,Northwest,NG,Net generation,50790,megawatthours
 2026-01-08T23,NW,Northwest,TI,Total interchange,2279,megawatthours
 2026-01-08T23,NWMT,NorthWestern Corporation,D,Demand,1367,megawatthours
@@ -4455,7 +4799,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-08T23,PSCO,Public Service Company of Colorado,NG,Net generation,5788,megawatthours
 2026-01-08T23,PSCO,Public Service Company of Colorado,TI,Total interchange,-383,megawatthours
 2026-01-08T23,PSEI,"Puget Sound Energy, Inc.",D,Demand,3779,megawatthours
-2026-01-08T23,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1317,megawatthours
+2026-01-08T23,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1428,megawatthours
 2026-01-08T23,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,595,megawatthours
 2026-01-08T23,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,-3184,megawatthours
 2026-01-08T23,SC,South Carolina Public Service Authority,D,Demand,2872,megawatthours
@@ -4528,7 +4872,7 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-08T23,TVA,Tennessee Valley Authority,NG,Net generation,17567,megawatthours
 2026-01-08T23,TVA,Tennessee Valley Authority,TI,Total interchange,-239,megawatthours
 2026-01-08T23,US48,United States Lower 48,D,Demand,488381,megawatthours
-2026-01-08T23,US48,United States Lower 48,DF,Day-ahead demand forecast,478943,megawatthours
+2026-01-08T23,US48,United States Lower 48,DF,Day-ahead demand forecast,479054,megawatthours
 2026-01-08T23,US48,United States Lower 48,NG,Net generation,483348,megawatthours
 2026-01-08T23,US48,United States Lower 48,TI,Total interchange,-3910,megawatthours
 2026-01-08T23,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3879,megawatthours
@@ -4655,347 +4999,3 @@ period,respondent,respondent-name,type,type-name,value,value-units
 2026-01-08T22,ISNE,ISO New England,D,Demand,15571,megawatthours
 2026-01-08T22,ISNE,ISO New England,DF,Day-ahead demand forecast,15800,megawatthours
 2026-01-08T22,ISNE,ISO New England,NG,Net generation,13883,megawatthours
-2026-01-08T22,ISNE,ISO New England,TI,Total interchange,-1688,megawatthours
-2026-01-08T22,JEA,JEA,D,Demand,1448,megawatthours
-2026-01-08T22,JEA,JEA,DF,Day-ahead demand forecast,1531,megawatthours
-2026-01-08T22,JEA,JEA,NG,Net generation,763,megawatthours
-2026-01-08T22,JEA,JEA,TI,Total interchange,-682,megawatthours
-2026-01-08T22,LDWP,Los Angeles Department of Water and Power,D,Demand,2811,megawatthours
-2026-01-08T22,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2433,megawatthours
-2026-01-08T22,LDWP,Los Angeles Department of Water and Power,NG,Net generation,2165,megawatthours
-2026-01-08T22,LDWP,Los Angeles Department of Water and Power,TI,Total interchange,-646,megawatthours
-2026-01-08T22,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,3972,megawatthours
-2026-01-08T22,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,DF,Day-ahead demand forecast,3679,megawatthours
-2026-01-08T22,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,NG,Net generation,3490,megawatthours
-2026-01-08T22,MIDA,Mid-Atlantic,D,Demand,95096,megawatthours
-2026-01-08T22,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,100113,megawatthours
-2026-01-08T22,MIDA,Mid-Atlantic,NG,Net generation,98579,megawatthours
-2026-01-08T22,MIDA,Mid-Atlantic,TI,Total interchange,1841,megawatthours
-2026-01-08T22,MIDW,Midwest,D,Demand,81027,megawatthours
-2026-01-08T22,MIDW,Midwest,DF,Day-ahead demand forecast,83419,megawatthours
-2026-01-08T22,MIDW,Midwest,NG,Net generation,82500,megawatthours
-2026-01-08T22,MIDW,Midwest,TI,Total interchange,-392,megawatthours
-2026-01-08T22,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,75007,megawatthours
-2026-01-08T22,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,77715,megawatthours
-2026-01-08T22,MISO,"Midcontinent Independent System Operator, Inc.",NG,Net generation,76425,megawatthours
-2026-01-08T22,MISO,"Midcontinent Independent System Operator, Inc.",TI,Total interchange,-929,megawatthours
-2026-01-08T22,NE,New England,D,Demand,15571,megawatthours
-2026-01-08T22,NE,New England,DF,Day-ahead demand forecast,15800,megawatthours
-2026-01-08T22,NE,New England,NG,Net generation,13883,megawatthours
-2026-01-08T22,NE,New England,TI,Total interchange,-1688,megawatthours
-2026-01-08T22,NEVP,Nevada Power Company,D,Demand,4590,megawatthours
-2026-01-08T22,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3762,megawatthours
-2026-01-08T22,NEVP,Nevada Power Company,NG,Net generation,4620,megawatthours
-2026-01-08T22,NEVP,Nevada Power Company,TI,Total interchange,3,megawatthours
-2026-01-08T22,NW,Northwest,D,Demand,48450,megawatthours
-2026-01-08T22,NW,Northwest,DF,Day-ahead demand forecast,34151,megawatthours
-2026-01-08T22,NW,Northwest,NG,Net generation,50848,megawatthours
-2026-01-08T22,NW,Northwest,TI,Total interchange,2382,megawatthours
-2026-01-08T22,NWMT,NorthWestern Corporation,D,Demand,1365,megawatthours
-2026-01-08T22,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1466,megawatthours
-2026-01-08T22,NWMT,NorthWestern Corporation,NG,Net generation,2026,megawatthours
-2026-01-08T22,NWMT,NorthWestern Corporation,TI,Total interchange,661,megawatthours
-2026-01-08T22,NY,New York,D,Demand,18853,megawatthours
-2026-01-08T22,NY,New York,DF,Day-ahead demand forecast,18719,megawatthours
-2026-01-08T22,NY,New York,NG,Net generation,16575,megawatthours
-2026-01-08T22,NY,New York,TI,Total interchange,-2278,megawatthours
-2026-01-08T22,NYIS,New York Independent System Operator,D,Demand,18853,megawatthours
-2026-01-08T22,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,18719,megawatthours
-2026-01-08T22,NYIS,New York Independent System Operator,NG,Net generation,16575,megawatthours
-2026-01-08T22,NYIS,New York Independent System Operator,TI,Total interchange,-2278,megawatthours
-2026-01-08T22,PACE,PacifiCorp East,D,Demand,6663,megawatthours
-2026-01-08T22,PACE,PacifiCorp East,NG,Net generation,6188,megawatthours
-2026-01-08T22,PACE,PacifiCorp East,TI,Total interchange,-475,megawatthours
-2026-01-08T22,PACW,PacifiCorp West,D,Demand,2821,megawatthours
-2026-01-08T22,PACW,PacifiCorp West,NG,Net generation,1082,megawatthours
-2026-01-08T22,PACW,PacifiCorp West,TI,Total interchange,-1739,megawatthours
-2026-01-08T22,PGE,Portland General Electric Company,D,Demand,3153,megawatthours
-2026-01-08T22,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,3218,megawatthours
-2026-01-08T22,PGE,Portland General Electric Company,NG,Net generation,499,megawatthours
-2026-01-08T22,PGE,Portland General Electric Company,TI,Total interchange,-2654,megawatthours
-2026-01-08T22,PJM,"PJM Interconnection, LLC",D,Demand,95096,megawatthours
-2026-01-08T22,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,100113,megawatthours
-2026-01-08T22,PJM,"PJM Interconnection, LLC",NG,Net generation,98579,megawatthours
-2026-01-08T22,PJM,"PJM Interconnection, LLC",TI,Total interchange,1841,megawatthours
-2026-01-08T22,PNM,Public Service Company of New Mexico,D,Demand,1694,megawatthours
-2026-01-08T22,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,1460,megawatthours
-2026-01-08T22,PNM,Public Service Company of New Mexico,NG,Net generation,2284,megawatthours
-2026-01-08T22,PNM,Public Service Company of New Mexico,TI,Total interchange,598,megawatthours
-2026-01-08T22,PSCO,Public Service Company of Colorado,D,Demand,6054,megawatthours
-2026-01-08T22,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,5032,megawatthours
-2026-01-08T22,PSCO,Public Service Company of Colorado,NG,Net generation,5929,megawatthours
-2026-01-08T22,PSCO,Public Service Company of Colorado,TI,Total interchange,-125,megawatthours
-2026-01-08T22,PSEI,"Puget Sound Energy, Inc.",D,Demand,3806,megawatthours
-2026-01-08T22,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1320,megawatthours
-2026-01-08T22,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,588,megawatthours
-2026-01-08T22,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,-3218,megawatthours
-2026-01-08T22,SC,South Carolina Public Service Authority,D,Demand,2699,megawatthours
-2026-01-08T22,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,2719,megawatthours
-2026-01-08T22,SC,South Carolina Public Service Authority,NG,Net generation,1504,megawatthours
-2026-01-08T22,SC,South Carolina Public Service Authority,TI,Total interchange,-1217,megawatthours
-2026-01-08T22,SCL,Seattle City Light,D,Demand,1424,megawatthours
-2026-01-08T22,SCL,Seattle City Light,DF,Day-ahead demand forecast,1379,megawatthours
-2026-01-08T22,SCL,Seattle City Light,NG,Net generation,535,megawatthours
-2026-01-08T22,SCL,Seattle City Light,TI,Total interchange,-889,megawatthours
-2026-01-08T22,SE,Southeast,D,Demand,24130,megawatthours
-2026-01-08T22,SE,Southeast,DF,Day-ahead demand forecast,25173,megawatthours
-2026-01-08T22,SE,Southeast,NG,Net generation,25055,megawatthours
-2026-01-08T22,SE,Southeast,TI,Total interchange,925,megawatthours
-2026-01-08T22,SEC,Seminole Electric Cooperative,D,Demand,299,megawatthours
-2026-01-08T22,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,205,megawatthours
-2026-01-08T22,SEC,Seminole Electric Cooperative,NG,Net generation,1789,megawatthours
-2026-01-08T22,SEC,Seminole Electric Cooperative,TI,Total interchange,1490,megawatthours
-2026-01-08T22,SEPA,Southeastern Power Administration,NG,Net generation,30,megawatthours
-2026-01-08T22,SEPA,Southeastern Power Administration,TI,Total interchange,30,megawatthours
-2026-01-08T22,SIKE,Sikeston Board of Municipal Utilities,NG,Net generation,9,megawatthours
-2026-01-08T22,SIKE,Sikeston Board of Municipal Utilities,TI,Total interchange,9,megawatthours
-2026-01-08T22,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,24130,megawatthours
-2026-01-08T22,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,25173,megawatthours
-2026-01-08T22,SOCO,"Southern Company Services, Inc. - Trans",NG,Net generation,25025,megawatthours
-2026-01-08T22,SOCO,"Southern Company Services, Inc. - Trans",TI,Total interchange,895,megawatthours
-2026-01-08T22,SPA,Southwestern Power Administration,D,Demand,31,megawatthours
-2026-01-08T22,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,3815,megawatthours
-2026-01-08T22,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,3468,megawatthours
-2026-01-08T22,SRP,Salt River Project Agricultural Improvement and Power District,NG,Net generation,5468,megawatthours
-2026-01-08T22,SRP,Salt River Project Agricultural Improvement and Power District,TI,Total interchange,1666,megawatthours
-2026-01-08T22,SW,Southwest,D,Demand,12195,megawatthours
-2026-01-08T22,SW,Southwest,DF,Day-ahead demand forecast,11578,megawatthours
-2026-01-08T22,SW,Southwest,NG,Net generation,13035,megawatthours
-2026-01-08T22,SW,Southwest,TI,Total interchange,807,megawatthours
-2026-01-08T22,SWPP,Southwest Power Pool,D,Demand,31226,megawatthours
-2026-01-08T22,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,35144,megawatthours
-2026-01-08T22,SWPP,Southwest Power Pool,NG,Net generation,31204,megawatthours
-2026-01-08T22,SWPP,Southwest Power Pool,TI,Total interchange,-161,megawatthours
-2026-01-08T22,TAL,City of Tallahassee,D,Demand,293,megawatthours
-2026-01-08T22,TAL,City of Tallahassee,DF,Day-ahead demand forecast,290,megawatthours
-2026-01-08T22,TAL,City of Tallahassee,NG,Net generation,391,megawatthours
-2026-01-08T22,TAL,City of Tallahassee,TI,Total interchange,98,megawatthours
-2026-01-08T22,TEC,Tampa Electric Company,D,Demand,2621,megawatthours
-2026-01-08T22,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,2650,megawatthours
-2026-01-08T22,TEC,Tampa Electric Company,NG,Net generation,2297,megawatthours
-2026-01-08T22,TEC,Tampa Electric Company,TI,Total interchange,-324,megawatthours
-2026-01-08T22,TEN,Tennessee,D,Demand,17386,megawatthours
-2026-01-08T22,TEN,Tennessee,DF,Day-ahead demand forecast,17382,megawatthours
-2026-01-08T22,TEN,Tennessee,NG,Net generation,16773,megawatthours
-2026-01-08T22,TEN,Tennessee,TI,Total interchange,-606,megawatthours
-2026-01-08T22,TEPC,Tucson Electric Power,D,Demand,1437,megawatthours
-2026-01-08T22,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,1418,megawatthours
-2026-01-08T22,TEPC,Tucson Electric Power,NG,Net generation,1310,megawatthours
-2026-01-08T22,TEPC,Tucson Electric Power,TI,Total interchange,-127,megawatthours
-2026-01-08T22,TEX,Texas,D,Demand,53674,megawatthours
-2026-01-08T22,TEX,Texas,DF,Day-ahead demand forecast,54413,megawatthours
-2026-01-08T22,TEX,Texas,NG,Net generation,53364,megawatthours
-2026-01-08T22,TEX,Texas,TI,Total interchange,-310,megawatthours
-2026-01-08T22,TIDC,Turlock Irrigation District,D,Demand,275,megawatthours
-2026-01-08T22,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,292,megawatthours
-2026-01-08T22,TIDC,Turlock Irrigation District,NG,Net generation,163,megawatthours
-2026-01-08T22,TIDC,Turlock Irrigation District,TI,Total interchange,-110,megawatthours
-2026-01-08T22,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,701,megawatthours
-2026-01-08T22,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,703,megawatthours
-2026-01-08T22,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",NG,Net generation,572,megawatthours
-2026-01-08T22,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",TI,Total interchange,-129,megawatthours
-2026-01-08T22,TVA,Tennessee Valley Authority,D,Demand,17386,megawatthours
-2026-01-08T22,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,17382,megawatthours
-2026-01-08T22,TVA,Tennessee Valley Authority,NG,Net generation,16773,megawatthours
-2026-01-08T22,TVA,Tennessee Valley Authority,TI,Total interchange,-606,megawatthours
-2026-01-08T22,US48,United States Lower 48,D,Demand,482225,megawatthours
-2026-01-08T22,US48,United States Lower 48,DF,Day-ahead demand forecast,470975,megawatthours
-2026-01-08T22,US48,United States Lower 48,NG,Net generation,471715,megawatthours
-2026-01-08T22,US48,United States Lower 48,TI,Total interchange,-3575,megawatthours
-2026-01-08T22,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,3920,megawatthours
-2026-01-08T22,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,3469,megawatthours
-2026-01-08T22,WACM,Western Area Power Administration - Rocky Mountain Region,NG,Net generation,3390,megawatthours
-2026-01-08T22,WACM,Western Area Power Administration - Rocky Mountain Region,TI,Total interchange,-530,megawatthours
-2026-01-08T22,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,886,megawatthours
-2026-01-08T22,WALC,Western Area Power Administration - Desert Southwest Region,DF,Day-ahead demand forecast,833,megawatthours
-2026-01-08T22,WALC,Western Area Power Administration - Desert Southwest Region,NG,Net generation,939,megawatthours
-2026-01-08T22,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,101,megawatthours
-2026-01-08T22,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,97,megawatthours
-2026-01-08T22,WAUW,Western Area Power Administration - Upper Great Plains West,NG,Net generation,37,megawatthours
-2026-01-08T22,WAUW,Western Area Power Administration - Upper Great Plains West,TI,Total interchange,-64,megawatthours
-2026-01-08T22,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",NG,Net generation,0,megawatthours
-2026-01-08T22,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",TI,Total interchange,-2,megawatthours
-2026-01-08T21,AECI,"Associated Electric Cooperative, Inc.",D,Demand,2062,megawatthours
-2026-01-08T21,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,2021,megawatthours
-2026-01-08T21,AECI,"Associated Electric Cooperative, Inc.",NG,Net generation,2675,megawatthours
-2026-01-08T21,AECI,"Associated Electric Cooperative, Inc.",TI,Total interchange,613,megawatthours
-2026-01-08T21,AVA,Avista Corporation,D,Demand,1772,megawatthours
-2026-01-08T21,AVA,Avista Corporation,DF,Day-ahead demand forecast,1784,megawatthours
-2026-01-08T21,AVA,Avista Corporation,NG,Net generation,1164,megawatthours
-2026-01-08T21,AVA,Avista Corporation,TI,Total interchange,-608,megawatthours
-2026-01-08T21,AVRN,"Avangrid Renewables, LLC",NG,Net generation,1839,megawatthours
-2026-01-08T21,AVRN,"Avangrid Renewables, LLC",TI,Total interchange,1839,megawatthours
-2026-01-08T21,AZPS,Arizona Public Service Company,D,Demand,3807,megawatthours
-2026-01-08T21,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,3542,megawatthours
-2026-01-08T21,AZPS,Arizona Public Service Company,NG,Net generation,1787,megawatthours
-2026-01-08T21,AZPS,Arizona Public Service Company,TI,Total interchange,-2020,megawatthours
-2026-01-08T21,BANC,Balancing Authority of Northern California,D,Demand,1914,megawatthours
-2026-01-08T21,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,2007,megawatthours
-2026-01-08T21,BANC,Balancing Authority of Northern California,NG,Net generation,1616,megawatthours
-2026-01-08T21,BANC,Balancing Authority of Northern California,TI,Total interchange,-298,megawatthours
-2026-01-08T21,BPAT,Bonneville Power Administration,D,Demand,8691,megawatthours
-2026-01-08T21,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,8600,megawatthours
-2026-01-08T21,BPAT,Bonneville Power Administration,NG,Net generation,14968,megawatthours
-2026-01-08T21,BPAT,Bonneville Power Administration,TI,Total interchange,6277,megawatthours
-2026-01-08T21,CAL,California,D,Demand,30797,megawatthours
-2026-01-08T21,CAL,California,DF,Day-ahead demand forecast,24645,megawatthours
-2026-01-08T21,CAL,California,NG,Net generation,18723,megawatthours
-2026-01-08T21,CAL,California,TI,Total interchange,-3866,megawatthours
-2026-01-08T21,CAR,Carolinas,D,Demand,20401,megawatthours
-2026-01-08T21,CAR,Carolinas,DF,Day-ahead demand forecast,20451,megawatthours
-2026-01-08T21,CAR,Carolinas,NG,Net generation,19925,megawatthours
-2026-01-08T21,CAR,Carolinas,TI,Total interchange,-499,megawatthours
-2026-01-08T21,CENT,Central,D,Demand,31244,megawatthours
-2026-01-08T21,CENT,Central,DF,Day-ahead demand forecast,35187,megawatthours
-2026-01-08T21,CENT,Central,NG,Net generation,31204,megawatthours
-2026-01-08T21,CENT,Central,TI,Total interchange,-161,megawatthours
-2026-01-08T21,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,283,megawatthours
-2026-01-08T21,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,320,megawatthours
-2026-01-08T21,CHPD,Public Utility District No. 1 of Chelan County,NG,Net generation,1424,megawatthours
-2026-01-08T21,CHPD,Public Utility District No. 1 of Chelan County,TI,Total interchange,1141,megawatthours
-2026-01-08T21,CISO,California Independent System Operator,D,Demand,27585,megawatthours
-2026-01-08T21,CISO,California Independent System Operator,DF,Day-ahead demand forecast,19618,megawatthours
-2026-01-08T21,CISO,California Independent System Operator,NG,Net generation,13899,megawatthours
-2026-01-08T21,CISO,California Independent System Operator,TI,Total interchange,-3441,megawatthours
-2026-01-08T21,CPLE,Duke Energy Progress East,D,Demand,6012,megawatthours
-2026-01-08T21,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,5869,megawatthours
-2026-01-08T21,CPLE,Duke Energy Progress East,NG,Net generation,6661,megawatthours
-2026-01-08T21,CPLE,Duke Energy Progress East,TI,Total interchange,649,megawatthours
-2026-01-08T21,CPLW,Duke Energy Progress West,D,Demand,516,megawatthours
-2026-01-08T21,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,555,megawatthours
-2026-01-08T21,CPLW,Duke Energy Progress West,NG,Net generation,516,megawatthours
-2026-01-08T21,CPLW,Duke Energy Progress West,TI,Total interchange,0,megawatthours
-2026-01-08T21,DEAA,"Arlington Valley, LLC",NG,Net generation,325,megawatthours
-2026-01-08T21,DEAA,"Arlington Valley, LLC",TI,Total interchange,325,megawatthours
-2026-01-08T21,DOPD,PUD No. 1 of Douglas County,D,Demand,327,megawatthours
-2026-01-08T21,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,370,megawatthours
-2026-01-08T21,DOPD,PUD No. 1 of Douglas County,NG,Net generation,695,megawatthours
-2026-01-08T21,DOPD,PUD No. 1 of Douglas County,TI,Total interchange,368,megawatthours
-2026-01-08T21,DUK,Duke Energy Carolinas,D,Demand,11185,megawatthours
-2026-01-08T21,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,11311,megawatthours
-2026-01-08T21,DUK,Duke Energy Carolinas,NG,Net generation,11340,megawatthours
-2026-01-08T21,DUK,Duke Energy Carolinas,TI,Total interchange,155,megawatthours
-2026-01-08T21,EPE,El Paso Electric Company,D,Demand,857,megawatthours
-2026-01-08T21,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,816,megawatthours
-2026-01-08T21,EPE,El Paso Electric Company,NG,Net generation,709,megawatthours
-2026-01-08T21,EPE,El Paso Electric Company,TI,Total interchange,-149,megawatthours
-2026-01-08T21,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,53575,megawatthours
-2026-01-08T21,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,54026,megawatthours
-2026-01-08T21,ERCO,"Electric Reliability Council of Texas, Inc.",NG,Net generation,53274,megawatthours
-2026-01-08T21,ERCO,"Electric Reliability Council of Texas, Inc.",TI,Total interchange,-301,megawatthours
-2026-01-08T21,FLA,Florida,D,Demand,30126,megawatthours
-2026-01-08T21,FLA,Florida,DF,Day-ahead demand forecast,29033,megawatthours
-2026-01-08T21,FLA,Florida,NG,Net generation,30118,megawatthours
-2026-01-08T21,FLA,Florida,TI,Total interchange,2,megawatthours
-2026-01-08T21,FMPP,Florida Municipal Power Pool,D,Demand,2189,megawatthours
-2026-01-08T21,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,2222,megawatthours
-2026-01-08T21,FMPP,Florida Municipal Power Pool,NG,Net generation,2098,megawatthours
-2026-01-08T21,FMPP,Florida Municipal Power Pool,TI,Total interchange,-91,megawatthours
-2026-01-08T21,FPC,"Duke Energy Florida, Inc.",D,Demand,6254,megawatthours
-2026-01-08T21,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,4927,megawatthours
-2026-01-08T21,FPC,"Duke Energy Florida, Inc.",NG,Net generation,4964,megawatthours
-2026-01-08T21,FPC,"Duke Energy Florida, Inc.",TI,Total interchange,-1290,megawatthours
-2026-01-08T21,FPL,Florida Power & Light Co.,D,Demand,16775,megawatthours
-2026-01-08T21,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,16977,megawatthours
-2026-01-08T21,FPL,Florida Power & Light Co.,NG,Net generation,17756,megawatthours
-2026-01-08T21,FPL,Florida Power & Light Co.,TI,Total interchange,981,megawatthours
-2026-01-08T21,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,744,megawatthours
-2026-01-08T21,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,771,megawatthours
-2026-01-08T21,GCPD,"Public Utility District No. 2 of Grant County, Washington",NG,Net generation,1429,megawatthours
-2026-01-08T21,GCPD,"Public Utility District No. 2 of Grant County, Washington",TI,Total interchange,788,megawatthours
-2026-01-08T21,GRID,"Gridforce Energy Management, LLC",NG,Net generation,2196,megawatthours
-2026-01-08T21,GRID,"Gridforce Energy Management, LLC",TI,Total interchange,2196,megawatthours
-2026-01-08T21,GVL,Gainesville Regional Utilities,D,Demand,224,megawatthours
-2026-01-08T21,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,202,megawatthours
-2026-01-08T21,GVL,Gainesville Regional Utilities,NG,Net generation,121,megawatthours
-2026-01-08T21,GVL,Gainesville Regional Utilities,TI,Total interchange,-95,megawatthours
-2026-01-08T21,GWA,"NaturEner Power Watch, LLC",NG,Net generation,353,megawatthours
-2026-01-08T21,GWA,"NaturEner Power Watch, LLC",TI,Total interchange,353,megawatthours
-2026-01-08T21,HST,City of Homestead,D,Demand,75,megawatthours
-2026-01-08T21,HST,City of Homestead,DF,Day-ahead demand forecast,77,megawatthours
-2026-01-08T21,HST,City of Homestead,NG,Net generation,0,megawatthours
-2026-01-08T21,HST,City of Homestead,TI,Total interchange,-75,megawatthours
-2026-01-08T21,IID,Imperial Irrigation District,D,Demand,289,megawatthours
-2026-01-08T21,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,312,megawatthours
-2026-01-08T21,IID,Imperial Irrigation District,NG,Net generation,900,megawatthours
-2026-01-08T21,IID,Imperial Irrigation District,TI,Total interchange,614,megawatthours
-2026-01-08T21,IPCO,Idaho Power Company,D,Demand,2208,megawatthours
-2026-01-08T21,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,2050,megawatthours
-2026-01-08T21,IPCO,Idaho Power Company,NG,Net generation,1829,megawatthours
-2026-01-08T21,IPCO,Idaho Power Company,TI,Total interchange,-375,megawatthours
-2026-01-08T21,ISNE,ISO New England,D,Demand,14980,megawatthours
-2026-01-08T21,ISNE,ISO New England,DF,Day-ahead demand forecast,14580,megawatthours
-2026-01-08T21,ISNE,ISO New England,NG,Net generation,13366,megawatthours
-2026-01-08T21,ISNE,ISO New England,TI,Total interchange,-1614,megawatthours
-2026-01-08T21,JEA,JEA,D,Demand,1452,megawatthours
-2026-01-08T21,JEA,JEA,DF,Day-ahead demand forecast,1524,megawatthours
-2026-01-08T21,JEA,JEA,NG,Net generation,719,megawatthours
-2026-01-08T21,JEA,JEA,TI,Total interchange,-731,megawatthours
-2026-01-08T21,LDWP,Los Angeles Department of Water and Power,D,Demand,734,megawatthours
-2026-01-08T21,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,2415,megawatthours
-2026-01-08T21,LDWP,Los Angeles Department of Water and Power,NG,Net generation,2145,megawatthours
-2026-01-08T21,LDWP,Los Angeles Department of Water and Power,TI,Total interchange,-633,megawatthours
-2026-01-08T21,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,4000,megawatthours
-2026-01-08T21,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,DF,Day-ahead demand forecast,3720,megawatthours
-2026-01-08T21,LGEE,LG&E and KU Services Company as agent for Louisville Gas and Electric Company and Kentucky Utilities Company,NG,Net generation,3405,megawatthours
-2026-01-08T21,MIDA,Mid-Atlantic,D,Demand,93296,megawatthours
-2026-01-08T21,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,95413,megawatthours
-2026-01-08T21,MIDA,Mid-Atlantic,NG,Net generation,98456,megawatthours
-2026-01-08T21,MIDA,Mid-Atlantic,TI,Total interchange,1662,megawatthours
-2026-01-08T21,MIDW,Midwest,D,Demand,81159,megawatthours
-2026-01-08T21,MIDW,Midwest,DF,Day-ahead demand forecast,83126,megawatthours
-2026-01-08T21,MIDW,Midwest,NG,Net generation,80833,megawatthours
-2026-01-08T21,MIDW,Midwest,TI,Total interchange,-1814,megawatthours
-2026-01-08T21,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,75097,megawatthours
-2026-01-08T21,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,77385,megawatthours
-2026-01-08T21,MISO,"Midcontinent Independent System Operator, Inc.",NG,Net generation,74744,megawatthours
-2026-01-08T21,MISO,"Midcontinent Independent System Operator, Inc.",TI,Total interchange,-2436,megawatthours
-2026-01-08T21,NE,New England,D,Demand,14980,megawatthours
-2026-01-08T21,NE,New England,DF,Day-ahead demand forecast,14580,megawatthours
-2026-01-08T21,NE,New England,NG,Net generation,13366,megawatthours
-2026-01-08T21,NE,New England,TI,Total interchange,-1614,megawatthours
-2026-01-08T21,NEVP,Nevada Power Company,D,Demand,4493,megawatthours
-2026-01-08T21,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,3712,megawatthours
-2026-01-08T21,NEVP,Nevada Power Company,NG,Net generation,5226,megawatthours
-2026-01-08T21,NEVP,Nevada Power Company,TI,Total interchange,705,megawatthours
-2026-01-08T21,NW,Northwest,D,Demand,48894,megawatthours
-2026-01-08T21,NW,Northwest,DF,Day-ahead demand forecast,34351,megawatthours
-2026-01-08T21,NW,Northwest,NG,Net generation,51308,megawatthours
-2026-01-08T21,NW,Northwest,TI,Total interchange,2493,megawatthours
-2026-01-08T21,NWMT,NorthWestern Corporation,D,Demand,1371,megawatthours
-2026-01-08T21,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,1477,megawatthours
-2026-01-08T21,NWMT,NorthWestern Corporation,NG,Net generation,2066,megawatthours
-2026-01-08T21,NWMT,NorthWestern Corporation,TI,Total interchange,695,megawatthours
-2026-01-08T21,NY,New York,D,Demand,17494,megawatthours
-2026-01-08T21,NY,New York,DF,Day-ahead demand forecast,17956,megawatthours
-2026-01-08T21,NY,New York,NG,Net generation,15404,megawatthours
-2026-01-08T21,NY,New York,TI,Total interchange,-2090,megawatthours
-2026-01-08T21,NYIS,New York Independent System Operator,D,Demand,17494,megawatthours
-2026-01-08T21,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,17956,megawatthours
-2026-01-08T21,NYIS,New York Independent System Operator,NG,Net generation,15404,megawatthours
-2026-01-08T21,NYIS,New York Independent System Operator,TI,Total interchange,-2090,megawatthours
-2026-01-08T21,PACE,PacifiCorp East,D,Demand,6751,megawatthours
-2026-01-08T21,PACE,PacifiCorp East,NG,Net generation,5559,megawatthours
-2026-01-08T21,PACE,PacifiCorp East,TI,Total interchange,-1192,megawatthours
-2026-01-08T21,PACW,PacifiCorp West,D,Demand,2969,megawatthours
-2026-01-08T21,PACW,PacifiCorp West,NG,Net generation,1109,megawatthours
-2026-01-08T21,PACW,PacifiCorp West,TI,Total interchange,-1860,megawatthours
-2026-01-08T21,PGE,Portland General Electric Company,D,Demand,3227,megawatthours
-2026-01-08T21,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,3245,megawatthours
-2026-01-08T21,PGE,Portland General Electric Company,NG,Net generation,549,megawatthours
-2026-01-08T21,PGE,Portland General Electric Company,TI,Total interchange,-2678,megawatthours
-2026-01-08T21,PJM,"PJM Interconnection, LLC",D,Demand,93296,megawatthours
-2026-01-08T21,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,95413,megawatthours
-2026-01-08T21,PJM,"PJM Interconnection, LLC",NG,Net generation,98456,megawatthours
-2026-01-08T21,PJM,"PJM Interconnection, LLC",TI,Total interchange,1662,megawatthours
-2026-01-08T21,PNM,Public Service Company of New Mexico,D,Demand,1729,megawatthours
-2026-01-08T21,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,1458,megawatthours
-2026-01-08T21,PNM,Public Service Company of New Mexico,NG,Net generation,2199,megawatthours
-2026-01-08T21,PNM,Public Service Company of New Mexico,TI,Total interchange,472,megawatthours
-2026-01-08T21,PSCO,Public Service Company of Colorado,D,Demand,6073,megawatthours
-2026-01-08T21,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,5045,megawatthours
-2026-01-08T21,PSCO,Public Service Company of Colorado,NG,Net generation,5714,megawatthours
-2026-01-08T21,PSCO,Public Service Company of Colorado,TI,Total interchange,-359,megawatthours
-2026-01-08T21,PSEI,"Puget Sound Energy, Inc.",D,Demand,3847,megawatthours
-2026-01-08T21,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,1301,megawatthours
-2026-01-08T21,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,568,megawatthours
