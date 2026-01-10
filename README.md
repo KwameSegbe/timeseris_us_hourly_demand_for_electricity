@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/KwameSegbe/timeseris_us_hourly_demand_for_electricity/main/assets/Time-Series-Analysis-2.webp"
-    width="100%"
+    width="60%"
     alt="Time Series Forecasting"
   />
 </p>
