@@ -1,12 +1,9 @@
-<img
-  src="./assets/Time-Series-Analysis-2.webp"
-  width="100%"
-  alt="Time Series Forecasting"
-/>
+<img src="https://raw.githubusercontent.com/KwameSegbe/timeseris_us_hourly_demand_for_electricity/main/assets/Time-Series-Analysis-2.webp" width="100%" alt="Time Series Forecasting" />
 
-<h1 align="center">🚀 Scalable Time Series Forecasting Pipelines</h1>
 
-<p align="center">
+<h1 align="left">🚀 Scalable Time Series Forecasting Pipelines</h1>
+
+<p align="left">
   Building scalable, production-oriented time series forecasting systems — from ingestion to delivery.
 </p>
 
