@@ -1,6 +1,8 @@
 <img
-  src="./assets/Time-Series-Analysis-2.webp"
-  width="60%"
+  src="./assets/banner.png"
+  width="100%"
+  height="220"
+  style="object-fit: cover;"
   alt="Time Series Forecasting"
 />
 
