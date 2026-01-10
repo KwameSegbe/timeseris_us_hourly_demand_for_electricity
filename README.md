@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/forecasting_banner.png" width="1000"/>
+</p>
+
 <h1 align="center">🚀 Scalable Time Series Forecasting Pipelines</h1>
 
 <p align="center">
@@ -5,10 +9,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="assets/banner.png" width="900"/>
-</p>
 
 
 🚀 𝐒𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐓𝐢𝐦𝐞 𝐒𝐞𝐫𝐢𝐞𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬
