@@ -4,9 +4,9 @@
   alt="Time Series Forecasting"
 />
 
-<h1 align="center">🚀 Scalable Time Series Forecasting Pipelines</h1>
+<h1 align="left">🚀 Scalable Time Series Forecasting Pipelines</h1>
 
-<p align="center">
+<p align="left">
   Building scalable, production-oriented time series forecasting systems — from ingestion to delivery.
 </p>
 
