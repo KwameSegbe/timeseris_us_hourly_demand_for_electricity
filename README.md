@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/forecasting_banner.png" width="1000"/>
+  <img src="./assets/forecasting_banner.png" width="900" />
 </p>
 
 <h1 align="center">🚀 Scalable Time Series Forecasting Pipelines</h1>
