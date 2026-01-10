@@ -1,6 +1,6 @@
 <img
   src="./assets/Time-Series-Analysis-2.webp"
-  width="70%"
+  width="100%"
   alt="Time Series Forecasting"
 />
 
