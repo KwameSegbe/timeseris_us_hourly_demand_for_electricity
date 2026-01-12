@@ -8,9 +8,9 @@
 </p>
 
 ---
-> End-to-end time series forecasting pipelines focused on scalability, evaluation, and production-ready design.
-
-This repository represents my work 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞, 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐨𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐭𝐢𝐦𝐞 𝐬𝐞𝐫𝐢𝐞𝐬 𝐟𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬. The focus is not only on forecast accuracy, but on how 𝐟𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 𝐚𝐫𝐞 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝, 𝐞𝐯𝐚𝐥𝐮𝐚𝐭𝐞𝐝, 𝐚𝐧𝐝 𝐦𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐞𝐧𝐝-𝐭𝐨-𝐞𝐧𝐝.
+>  𝐄𝐧𝐝-𝐭𝐨-𝐞𝐧𝐝 𝐭𝐢𝐦𝐞 𝐬𝐞𝐫𝐢𝐞𝐬 𝐟𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬 𝐟𝐨𝐜𝐮𝐬𝐞𝐝 𝐨𝐧 𝐬𝐜𝐚𝐥𝐚𝐛𝐢𝐥𝐢𝐭𝐲, 𝐞𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐫𝐞𝐚𝐝𝐲 𝐝𝐞𝐬𝐢𝐠𝐧.
+> **Core tools:** Python · StatsForecast · MLForecast · Nixtla · Pandas
+ The focus is not only on forecast accuracy, but on how 𝐟𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 𝐚𝐫𝐞 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝, 𝐞𝐯𝐚𝐥𝐮𝐚𝐭𝐞𝐝, 𝐚𝐧𝐝 𝐦𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐞𝐧𝐝-𝐭𝐨-𝐞𝐧𝐝.
 
 The project is grounded in principles taught in 𝐑𝐚𝐦𝐢 𝐊𝐫𝐢𝐬𝐩𝐢𝐧’𝐬 𝐭𝐢𝐦𝐞 𝐬𝐞𝐫𝐢𝐞𝐬 𝐟𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 𝐜𝐨𝐮𝐫𝐬𝐞, which I use as a foundation to experiment, extend, and formalize my own approach to time series pipeline design using the 𝐍𝐢𝐱𝐭𝐥𝐚 𝐞𝐜𝐨𝐬𝐲𝐬𝐭𝐞𝐦.
 
