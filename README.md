@@ -27,3 +27,22 @@ The project includes:
 - Multiple forecasting workflows using classical statistical models
 - Reproducible evaluation through backtesting and error metrics
 - Notebooks for experimentation, visualization, and interpretation
+
+## 🗂 Repository Structure
+
+The repository is organized to clearly separate pipeline code, experimentation workflows, and analysis artifacts:
+
+- `src/forecast/`  
+  Data ingestion and preparation pipeline used to build clean, analysis-ready time series datasets.
+
+- `src/experimentation/`  
+  Experimentation and backtesting logic, including evaluation and scoring workflows.
+
+- `notebooks/`  
+  Interactive notebooks used for exploration, visualization, and interpretation of forecasting results.
+
+- `data/`  
+  Publicly available datasets and generated artifacts used during analysis.
+
+- `assets/`  
+  Images and visual assets referenced in documentation.
