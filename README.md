@@ -73,3 +73,23 @@ All conclusions are drawn from out-of-sample predictions, emphasizing generaliza
 Forecasts are evaluated not only on point accuracy, but also on prediction intervals and coverage, reflecting the importance of uncertainty in real-world decision-making.
 
 Experimentation is primarily conducted in notebooks, where assumptions, results, and trade-offs can be inspected and iterated on, while pipeline code remains modular and reusable.
+
+## 📊 Evaluation Methodology
+
+Evaluation in this project is implemented through a reproducible backtesting and scoring workflow.
+
+Specifically, the project includes:
+
+**Historical backtesting**
+Forecasting models are evaluated using rolling historical windows to generate out-of-sample predictions.
+
+**Out-of-sample error metrics**
+Model performance is measured using standard metrics such as RMSE and MAPE, computed on backtested forecasts.
+
+**Prediction interval evaluation**
+For models that produce prediction intervals, coverage metrics are calculated to assess whether observed values fall within forecasted uncertainty bounds.
+
+**Consistent scoring across models**
+All models are evaluated using the same backtesting setup and scoring functions to enable direct comparison.
+
+This evaluation layer is used to support experimentation and comparison of forecasting approaches, and serves as the basis for further analysis and visualization in notebooks.
