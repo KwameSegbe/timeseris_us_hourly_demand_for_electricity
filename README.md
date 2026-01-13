@@ -46,3 +46,26 @@ The repository is organized to clearly separate pipeline code, experimentation w
 
 - `assets/`  
   Images and visual assets referenced in documentation.
+
+## 🔍 Forecasting & Experimentation Approach
+
+This project treats time series forecasting as a systematic experimentation problem, rather than a single-model exercise.
+
+The approach is guided by the following principles:
+
+Separation of concerns
+Data ingestion and preparation are handled independently from modeling and evaluation, allowing experimentation to focus on modeling decisions rather than data inconsistencies.
+
+Backtesting over single splits
+Model performance is assessed using historical backtesting, simulating how forecasts would have performed in real time. This avoids reliance on a single train–test split and provides a more realistic view of model behavior.
+
+Multiple model families
+Forecasting workflows include classical statistical time series models, enabling comparison across different assumptions about trend, seasonality, and noise.
+
+Out-of-sample evaluation as the default
+All conclusions are drawn from out-of-sample predictions, emphasizing generalization rather than in-sample fit.
+
+Uncertainty-aware forecasting
+Forecasts are evaluated not only on point accuracy, but also on prediction intervals and coverage, reflecting the importance of uncertainty in real-world decision-making.
+
+Experimentation is primarily conducted in notebooks, where assumptions, results, and trade-offs can be inspected and iterated on, while pipeline code remains modular and reusable.
